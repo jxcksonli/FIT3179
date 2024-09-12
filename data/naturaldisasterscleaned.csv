@@ -1,0 +1,674 @@
+id,resourceType,title,startDate,endDate,lat,lon,Evacuated,Homeless,Injuries,Deaths,Insured Cost,Home(s) damaged,Home(s) destroyed,Building(s) damaged,Building(s) destroyed,Motor Vehicle(s) damaged,Motor Vehicle(s) destroyed,Water vessel(s) damaged,Water vessel(s) destroyed,Business(es) damaged,Business(es) destroyed,Crop(s) destroyed,Livestock destroyed,Government assistance,regions
+1,Disaster Event,Environmental - South-Eastern Australia Heatwave 1939,1/01/1939 0:00,1/16/1939 0:00,-33.1315155,135.5578918,,,,400,,,,,,,,,,,,,,,Victoria;New South Wales;South Australia
+2,Disaster Event,Industrial - Leinster Mine Flood,6/13/1989 0:00,6/13/1989 0:00,-27.79534912,120.7287598,,,,6,,,,,,,,,,,,,,,Western Australia
+3,Disaster Event,Industrial - Appin Mine Explosion,7/24/1979 0:00,7/24/1979 0:00,-34.19221115,150.7863312,,,,14,,,,,,,,,,,,,,,New South Wales
+4,Disaster Event,Transport - Granville Rail Disaster,1/18/1977 0:00,1/18/1977 0:00,-33.83146286,151.009964,,,210,83,,,,,,,,,,,,,,,New South Wales
+5,Disaster Event,Bushfire - Sydney and Southern New South Wales,1/13/1939 0:00,1/14/1939 0:00,-34.42498398,150.8931274,,,,6,,,,,,,,,,,,,,,New South Wales
+6,Disaster Event,Urban Fire - Melbourne,4/08/1996 0:00,4/08/1996 0:00,-37.81215668,144.9636536,,36,,9,,,,,,,,,,,,,,,Victoria
+7,Disaster Event,Bushfire - Wandilo,4/05/1958 0:00,4/06/1958 0:00,-37.73846054,140.7737122,,,3,8,,,,,,,,,,,,,,,South Australia
+8,Disaster Event,Shipwreck - Haweis,24/10/1829 00:00:00,24/10/1829 00:00:00,-32.24996948,155.6103516,,,,11,,,,,,,,,1,,,,,,New South Wales
+9,Disaster Event,Transport - Trawalla Train and Truck Collision,4/28/2006 0:00,4/28/2006 0:00,-37.43626022,143.4694214,,,18,2,,,,,,,,,,,,,,,Victoria
+10,Disaster Event,Industrial - Gladstone Factory Explosion,5/09/2006 0:00,5/09/2006 0:00,-33.26222992,138.3563232,,,2,3,,,,,,,,,,,,,,,South Australia
+11,Disaster Event,Transport - Plane Crash Indonesia,3/07/2007 0:00,3/07/2007 0:00,-7.789532185,110.4211807,,,12,21,,,,,,,,,,,,,,,Outside Australia
+12,Disaster Event,Cyclone George,3/03/2007 0:00,3/08/2007 0:00,-20.31162643,118.5752563,,,20,3,8000000,,,,,,,,,,,,,,Western Australia
+13,Disaster Event,Transport - Sydney Ferry Accident,3/28/2007 0:00,3/28/2007 0:00,-33.8515625,151.2089539,,,8,4,,,,,,,,,2,,,,,,New South Wales
+14,Disaster Event,Hail - Hunter Valley,10/31/2006 0:00,10/31/2006 0:00,-32.82806015,151.6847076,,,,,51000000,,,,,10000,,,,,,,,,New South Wales
+15,Disaster Event,Transport - Burnley Tunnel Fire,3/23/2007 0:00,3/23/2007 0:00,-37.82619095,144.9970398,247,,2,3,,,,,,,,,,,,,,,Victoria
+16,Disaster Event,Transport - Kerang Train and Truck Collision,6/05/2007 0:00,6/05/2007 0:00,-35.76305389,143.9385834,,,14,11,,,,,,,,,,,,,,,Victoria
+17,Disaster Event,Severe Storm -  New South Wales East Coast Low,6/08/2007 0:00,6/10/2007 0:00,-32.92599487,151.7788696,6000,,,9,1480000000,,,,,,,,1,,,,,,New South Wales
+18,Disaster Event,Flood - Gippsland June 2007,6/27/2007 0:00,7/02/2007 0:00,-38.2273941,146.7471313,,,,1,15000000,,,,,,,,,,,,,,Victoria
+19,Disaster Event,Industrial - Mt Kembla Gas Explosion,7/31/1902 0:00,7/31/1902 0:00,-34.43048859,150.818161,,,,96,,,,,,,,,,,,,,,New South Wales
+20,Disaster Event,Shipwreck - Broome and Region,22/04/1887 00:00:00,22/04/1887 00:00:00,-18.8387146,120.0476074,,,,140,,,,,,,,,22,,,,,,Western Australia
+21,Disaster Event,Urban Fire - Hobart Department Store,9/22/2007 0:00,9/22/2007 0:00,-42.88118362,147.3239594,,,,,50000000,,,,1,,,,,,,,,,Tasmania
+22,Disaster Event,Bushfire - Great Divide Complex,12/01/2006 0:00,2/07/2007 0:00,-36.71800995,147.1452179,,,1400,1,,,51,,,,,,,,,,,,Victoria
+23,Disaster Event,Hail - Lismore,10/08/2007 0:00,10/09/2007 0:00,-28.80650711,153.276947,,,17,,97000000,,,,,,,,,,,,,,New South Wales
+24,Disaster Event,Severe Storm - South-East Queensland and Northern New South Wales,10/07/2007 0:00,10/12/2007 0:00,-28.80579758,153.2768707,,,,,97000000,,,,,,,,,,,,,,Queensland
+25,Disaster Event,Chemical - Kakadu Uranium Leak,3/23/2004 0:00,3/23/2004 0:00,-12.83351898,131.9443359,,,28,,,,,,,,,,,,,,,,Northern Territory
+26,Disaster Event,Urban Fire - Adelaide Shopping Centre,8/22/2004 0:00,8/22/2004 0:00,-34.97860336,138.6230469,,,,,25000000,,,,,,,,,,,,,,South Australia
+27,Disaster Event,Chemical - Melbourne Chemical Spill,10/29/2004 0:00,10/29/2004 0:00,-37.6662941,144.8489075,400,,28,,,,,,,,,,,,,,,,Victoria
+28,Disaster Event,Hail - Orange,1/21/1986 0:00,1/21/1986 0:00,-33.28357697,149.1012726,,,,,25000000,,,,,100,,,,,,,,,New South Wales
+29,Disaster Event,Cyclone Justin,3/06/1997 0:00,3/24/1997 0:00,-19.39195442,155.8560638,,,20,2,,,,,,,,,,,,,,,Queensland
+30,Disaster Event,Transport - Sydney Harbour Ferry Collision,11/03/1927 0:00,11/03/1927 0:00,-33.85607147,151.2440948,,,,40,,,,,,,,1,1,,,,,,New South Wales
+31,Disaster Event,Cyclone - Mackay 1918,1/20/1918 0:00,1/22/1918 0:00,-21.17188644,149.2073364,,,,30,,,,1400,,,,,,,,,,,Queensland
+32,Disaster Event,"Severe Storm - Hunter Valley, Tablelands and Southern Highlands",6/23/1998 0:00,6/24/1998 0:00,-32.7326355,151.5579376,,,,1,12000000,,,,,,,,,,,,,,New South Wales
+33,Disaster Event,"Complex Emergencies - Iron Crown, War Time Sinking",6/04/1942 0:00,6/04/1942 0:00,-37.57271194,149.9047546,,,5,37,,,,,,,,,1,,,,,,Victoria
+34,Disaster Event,Hail - Western Sydney,3/18/1990 0:00,3/18/1990 0:00,-33.91615677,151.0357513,,100,25,,319000000,,,1400,,9000,,,,,,,,,New South Wales
+35,Disaster Event,Severe Storm - Sydney Jan 1937,1/25/1937 0:00,1/25/1937 0:00,-33.8731575,151.2069397,,,,4,,,,,,,,,,,,,,,New South Wales
+36,Disaster Event,Bushfire - Dandenong Ranges and Mornington Peninsula,1/19/1997 0:00,1/21/1997 0:00,-37.88122559,145.3422699,800,,40,3,29000000,45,43,,,,,,,,,,,,Victoria
+37,Disaster Event,Shipwreck - Frisk,28/05/1853 00:00:00,28/05/1853 00:00:00,-38.29532623,144.6224823,,,,5,,,,,,,,,1,,,,,,Victoria
+38,Disaster Event,Shipwreck - Vixen,01/09/1847 00:00:00,01/09/1847 00:00:00,-29.33429718,153.3691406,,,,5,,,,,,,,,1,,,,,,Queensland
+39,Disaster Event,Shipwreck - Rembrandt,18/04/1860 00:00:00,18/04/1860 00:00:00,-38.2122879,147.4447632,,,,10,,,,,,,,,1,,,,,,Victoria
+40,Disaster Event,Transport - Brooklyn Train Collision,5/06/1990 0:00,5/06/1990 0:00,-33.54511642,151.2256012,,,93,6,,,,,,,,,,,,,,,New South Wales
+41,Disaster Event,Cyclone Winifred,1/27/1986 0:00,2/05/1986 0:00,-17.69570732,146.1140442,,,,3,40000000,,,1500,,,,,12,,,,,,Queensland
+42,Disaster Event,Cyclone Mahina,04/03/1899 00:00:00,10/03/1899 00:00:00,-14.1152668,144.3383789,,,,400,,,,,,,,,55,,,,,,Queensland
+43,Disaster Event,Epidemic - Melbourne Food Poisoning 2002,3/25/2002 0:00,3/25/2002 0:00,-37.81324387,144.9628906,,,272,,,,,,,,,,,,,,,,Victoria
+44,Disaster Event,Transport - Hot Air Balloon Crash,8/13/1989 0:00,8/13/1989 0:00,-23.905299,133.905144,,,,13,,,,,,,,,,,,,,,Northern Territory
+45,Disaster Event,Shipwreck - Paringa,12/26/1935 0:00,12/26/1935 0:00,-39.15988159,146.2939453,,,,31,,,,,,,,,1,,,,,,Victoria
+46,Disaster Event,Cyclone Glenda,4/02/1967 0:00,4/04/1967 0:00,-27.7224369,157.7197266,,,,6,,,,,,,,,,,,,,,Queensland
+47,Disaster Event,Shipwreck - Peruvian,18/03/1846 00:00:00,18/03/1846 00:00:00,-20.98195648,159.0161133,,,,21,,,,,,,,,1,,,,,,Queensland
+48,Disaster Event,"Severe Storm - Newcastle, Sydney, Wollongong",2/10/1978 0:00,2/11/1978 0:00,-32.92599487,151.7788696,,,8,,15000000,,,,,,,,,,,,,,New South Wales
+49,Disaster Event,Shipwreck - HMAS Sydney,11/19/1941 0:00,11/19/1941 0:00,-22.2687645,111.2695313,,,,645,,,,,,,,,1,,,,,,Outside Australia
+50,Disaster Event,"Flood - Queensland - Charleville, New South Wales - Nyngan, Victoria - Gippsland",4/21/1990 0:00,4/30/1990 0:00,-31.54109001,147.1975708,,5000,,6,30000000,,,,,,,,,,,,,,New South Wales;Victoria;Queensland
+51,Disaster Event,Shipwreck - Geltwood,14/06/1876 00:00:00,14/06/1876 00:00:00,-37.66126633,140.1385193,,,,30,,,,,,,,,1,,,,,,South Australia
+52,Disaster Event,Transport - Adelaide Bus Collision,10/02/1989 0:00,10/02/1989 0:00,-34.92675781,138.5994873,,,78,,,,,,,,,,,,,,,,South Australia
+53,Disaster Event,Complex Emergencies - Wartime Bombing Raids,2/19/1942 0:00,2/19/1942 0:00,-12.47060394,130.8434753,,,400,243,,,,,,,,15,10,,,,,,Northern Territory
+54,Disaster Event,Transport - Merredin Rail Collision,1/13/1996 0:00,1/13/1996 0:00,-31.530181,118.078705,,,1,2,,,,,,,,,,,,,,,Western Australia
+55,Disaster Event,Shipwreck - Georgina and Spy,01/04/1848 00:00:00,01/04/1848 00:00:00,-42.88973618,147.347641,,,,3,,,,,,,,,1,,,,,,Tasmania
+56,Disaster Event,Shipwreck - Goorangai,11/20/1940 0:00,11/20/1940 0:00,-38.28919601,144.6871033,,,,24,,,,,,,,1,1,,,,,,Victoria
+57,Disaster Event,Shipwreck - Collision Melbourne and Nieuw Holland,8/09/1972 0:00,8/09/1972 0:00,-37.8773613,144.9148254,,,,5,,,,,,,,,1,,,,,,Victoria
+58,Disaster Event,Earthquake - Newcastle,12/28/1989 0:00,12/29/1989 0:00,-32.92592239,151.7787018,,,160,13,862000000,40000,,50000,,,,,,,,,,,New South Wales
+59,Disaster Event,Severe Storm - Nyngan,1/05/1998 0:00,1/05/1998 0:00,-31.53523827,147.1920776,,,1,,12000000,77,4,,,,,,,,,,,,New South Wales
+60,Disaster Event,Environmental - Heatwave Dec 1909,12/09/1909 0:00,2/10/1910 0:00,-33.87330246,151.2070618,,,,109,,,,,,,,,,,,,,,Queensland;New South Wales;Tasmania;Australian Capital Territory;Northern Territory;South Australia;Western Australia;Victoria
+61,Disaster Event,Cyclone - Gulf of Carpentaria,05/03/1887 00:00:00,05/03/1887 00:00:00,-17.73102951,139.54216,,,,7,,,,,,,,,,,,,,,Queensland
+62,Disaster Event,Industrial - Woodend Mine,2/01/1945 0:00,2/01/1945 0:00,-27.60289574,152.7519379,,,,4,,,,,,,,,,,,,,,Queensland
+63,Disaster Event,"Bushfire - North Coast, Hunter and Sydney",12/27/1993 0:00,1/16/1994 0:00,-29.58524513,152.7775879,,,,4,59000000,,206,,,,,,,,,,,,New South Wales
+64,Disaster Event,Shipwreck - Moolgewanke,21/07/1874 00:00:00,21/07/1874 00:00:00,-34.57414627,139.5933075,,,1,3,,,,,,,,,1,,,,,,South Australia
+65,Disaster Event,Shipwreck - Cheviot,19/10/1887 00:00:00,19/10/1887 00:00:00,-38.31795502,144.5896912,,,24,35,,,,,,,,,1,,,,,,Victoria
+66,Disaster Event,Flood - Western Sydney,4/24/1974 0:00,4/24/1974 0:00,-33.75153351,150.6912231,,,,1,20000000,,,,,,,,,,,,,,New South Wales
+67,Disaster Event,Flood - Widespread Coastal,2/20/1929 0:00,2/28/1929 0:00,-23.37712288,150.5100708,100,,,3,,,,,,,,,,,,,,,Queensland
+68,Disaster Event,Bushfire - Southern Victoria and Dandenong Ranges,1/14/1962 0:00,2/16/1962 0:00,-37.85620117,145.3159332,,2500,,8,,,454,,,,,,,,,,,,Victoria
+69,Disaster Event,Severe Storm - Ballarat,11/16/1989 0:00,11/16/1989 0:00,-37.56158829,143.8562317,,,,,20000000,,,,,,,,,,,,,,Victoria
+70,Disaster Event,"Flood - Sydney, Newcastle and Wollongong",2/10/1978 0:00,2/10/1978 0:00,-33.59460449,150.7513123,,,,6,15000000,,,,,,,,,,,,,,New South Wales
+71,Disaster Event,Shipwreck - Craigburn,08/05/1891 00:00:00,08/05/1891 00:00:00,-38.47939682,144.669342,,,,6,,,,,,,,,,,,,,,Victoria
+72,Disaster Event,Chemical - Cairns,8/17/1987 0:00,8/17/1987 0:00,-16.92261696,145.7739868,,,27,1,,,,,,,,,,,,,,,Queensland
+73,Disaster Event,Shipwreck - Rover,14/10/1841 00:00:00,14/10/1841 00:00:00,-35.84926605,150.1885986,,,,12,,,,,,,,,1,,,,,,New South Wales
+74,Disaster Event,Flood - Southern Queensland and Northern New South Wales,5/01/1996 0:00,5/09/1996 0:00,-27.37176704,150.4907227,,,20,5,31000000,,,,,,,,,,,,,,New South Wales;Queensland
+75,Disaster Event,Flood - Gundagai,25/06/1852 00:00:00,25/06/1852 00:00:00,-35.06316376,148.1075439,,160,,89,,,,,,,,,,,,,,,New South Wales
+76,Disaster Event,Chemical - MV Nego Kim,11/18/2001 0:00,11/18/2001 0:00,-20.65744209,116.7032547,,,,8,,,,,,,,1,,,,,,,Western Australia
+77,Disaster Event,Criminal Act - Hilton Hotel Bombing,2/13/1978 0:00,2/13/1978 0:00,-33.87180328,151.2081451,,,,3,,,,,,,,,,,,,,,New South Wales
+78,Disaster Event,Transport - Belgrave Train Derailment,1/28/1908 0:00,1/28/1908 0:00,-37.908958,145.354013,,,40,,,,,,,,,,,,,,,,Victoria
+79,Disaster Event,Transport - Richmond Rail Collision,7/18/1910 0:00,7/18/1910 0:00,-33.59674835,150.7526855,,,114,9,,,,,,,,,,,,,,,Victoria
+80,Disaster Event,Transport - Guerie Rail Collision,8/23/1963 0:00,8/23/1963 0:00,-32.3973732,148.8305359,,,22,,,,,,,,,,,,,,,,New South Wales
+81,Disaster Event,Earthquake - Beachport and Robe,10/05/1897 00:00:00,10/05/1897 00:00:00,-37.16278076,139.7553558,,,50,,,,,,,,,,,,,,,,South Australia
+82,Disaster Event,Shipwreck - Eric the Red,03/09/1880 00:00:00,03/09/1880 00:00:00,-38.88301468,143.524704,,,,4,,,,,,,,,1,,,,,,Victoria
+83,Disaster Event,Transport - Dandenongs Aircraft Crash,10/25/1938 0:00,10/25/1938 0:00,-37.83002472,145.3504333,,,,18,,,,,,,,,,,,,,,Victoria
+84,Disaster Event,Transport - Spit Bridge  Bus Crash,5/30/1949 0:00,5/30/1949 0:00,-33.79455185,151.2841339,,,33,4,,,,,,1,,,,,,,,,New South Wales
+85,Disaster Event,Shipwreck - Ly-Ee-Moon,30/05/1886 00:00:00,30/05/1886 00:00:00,-37.54811478,149.9024353,,,16,71,,,,,,,,,1,,,,,,New South Wales
+86,Disaster Event,Shipwreck - Wyrallah,4/08/1924 0:00,4/08/1924 0:00,-38.29640579,144.6350098,,,,6,,,,,,,,,1,,,,,,Victoria
+87,Disaster Event,Bushfire - New South Wales and Other States,12/01/1974 0:00,2/01/1975 0:00,-31.49797058,145.8381958,,,,3,,,,,,,,,,,,,50000,,New South Wales
+88,Disaster Event,Severe Storm - Sydney and Region 2001,1/15/2001 0:00,1/15/2001 0:00,-33.84646606,151.2307587,,,,,12000000,,,,,,,,,,,,,,New South Wales
+89,Disaster Event,Shipwreck - Brothers,23/12/1837 00:00:00,23/12/1837 00:00:00,-32.92840958,151.8066864,,,,3,,,,,,,,1,,,,,,,New South Wales
+90,Disaster Event,Shipwreck - Dandenong,11/09/1876 00:00:00,12/09/1876 00:00:00,-35.16117859,150.782547,,,,44,,,,,,,,,1,,,,,,New South Wales
+91,Disaster Event,Flood - Boonah,2/07/1991 0:00,2/11/1991 0:00,-27.99690247,152.6821594,,,10,3,,,,,,,,,,,,,,,Queensland
+92,Disaster Event,Shipwreck - S.S. Douglas Mawson,3/29/1923 0:00,3/29/1923 0:00,-14.47723389,140.7348633,,,,20,,,,,,,,,1,,,,,,Outside Australia
+93,Disaster Event,Hail - Brisbane and South East Queensland,11/03/1995 0:00,11/06/1995 0:00,-27.47093391,153.0234985,,,,1,40000000,300,,,,,,,,,,,,,Queensland
+94,Disaster Event,Shipwreck - Julia,02/08/1863 00:00:00,02/08/1863 00:00:00,-38.34098434,141.614563,,,,6,,,,,,,,,2,,,,,,Victoria
+95,Disaster Event,Environmental - Eastern Australia Drought,4/01/1982 0:00,3/01/1983 0:00,-28.92163086,145.612793,,,,,3000000000,,,,,,,,,,,,,,Tasmania;Queensland;New South Wales;Australian Capital Territory;Northern Territory;South Australia;Western Australia;Victoria
+96,Disaster Event,Shipwreck - Isabella Watson,21/03/1852 00:00:00,21/03/1852 00:00:00,-38.278012,144.636812,,,,9,,,,,,,,,1,,,,,,Victoria
+97,Disaster Event,Epidemic - Spanish Flu,1/01/1918 0:00,12/31/1919 0:00,-37.81215668,144.9628906,,,,10000,,,,,,,,,,,,,,,Australian Capital Territory;Northern Territory;Queensland;New South Wales;South Australia;Western Australia;Tasmania;Victoria
+98,Disaster Event,Urban Fire - Adelaide Cafe,10/27/1948 0:00,10/27/1948 0:00,-34.92608643,138.5995636,,,,5,,,,,,,,,,,,,,,South Australia
+99,Disaster Event,Shipwreck - Ellen Simpson,17/05/1866 00:00:00,17/05/1866 00:00:00,-37.50918198,149.9960022,,,1,9,,,,,,,,,1,,,,,,Victoria
+100,Disaster Event,Flood - Araluen and Braidwood,08/02/1860 00:00:00,13/02/1860 00:00:00,-35.440813,149.798584,,,,24,,,,,,,,,,,,,,,New South Wales
+101,Disaster Event,Transport - Brooklyn Train and Bus Collision,1/20/1944 0:00,1/20/1944 0:00,-33.54708099,151.2264252,,,5,17,,,,,,,1,,,,,,,,New South Wales
+102,Disaster Event,Environmental - Drought 1918,1/01/1918 0:00,1/02/1920 0:00,-28.13012886,137.2961426,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+103,Disaster Event,Bushfire - Central and Southern Victoria,1/01/1952 0:00,3/01/1952 0:00,-36.68604279,147.1508789,,,,10,,,,,,,,,,,,,,,Victoria
+104,Disaster Event,Criminal Act - Whiskey Au Go-Go Nightclub Bombing,3/08/1973 0:00,3/08/1973 0:00,-27.45536041,153.032196,,,,15,,,,,,,,,,,,,,,Queensland
+105,Disaster Event,Cyclone Rewa,12/31/1993 0:00,1/25/1994 0:00,-9.860628128,162.4987793,,,,4,,100,,,,,,,,,,,,,Queensland
+106,Disaster Event,Transport - Parafield Light Aircraft Collision,2/01/1976 0:00,2/01/1976 0:00,-34.788396,138.634071,,,,5,,,,,,,,,,,,,,,South Australia
+107,Disaster Event,"Flood - Melbourne, Yarra Valley",11/30/1934 0:00,12/02/1934 0:00,-37.81361008,144.9630585,,,,36,,,400,,,,,,,,,,,,Victoria
+108,Disaster Event,Transport - Boronia Bus and Train Collision,6/01/1952 0:00,6/01/1952 0:00,-37.86028671,145.2844086,,,,9,,,,,,,,,,,,,,,Victoria
+109,Disaster Event,Shipwreck - Peter Silvester,2/06/1945 0:00,2/06/1945 0:00,-35.02999496,101.3818359,,,,32,,,,,,,,,1,,,,,,Western Australia
+110,Disaster Event,Transport - Leigh Creek Light Aircraft Crash,1/25/1972 0:00,1/25/1972 0:00,-30.59736,138.421984,,,,4,,,,,,,,,,,,,,,South Australia
+111,Disaster Event,Shipwreck - Errol Middleton Reef,6/18/1909 0:00,7/12/1909 0:00,-32.56533432,152.4462891,,,,17,,,,,,,,,1,,,,,,New South Wales
+112,Disaster Event,Transport - Cootamundra Train Derailment,25/01/1885 00:00:00,25/01/1885 00:00:00,-34.6529808,148.0146027,,,20,7,,,,,,,,,,,,,,,New South Wales
+113,Disaster Event,Shipwreck - Lightship Rose,01/05/1857 00:00:00,01/05/1857 00:00:00,-27.16303062,153.356781,,,,16,,,,,,,,,1,,,,,,Queensland
+114,Disaster Event,Flood - Eastern Australia,1/25/1974 0:00,4/01/1974 0:00,-27.47084808,153.0234222,,,,14,68000000,,,,,,,,,,,,,,Tasmania;Queensland;New South Wales;South Australia;Victoria
+116,Disaster Event,Chemical - Bellevue Hazardous Waste Fire,2/15/2001 0:00,2/17/2001 0:00,-31.89971161,116.0260544,100,,130,,,,,,,,,,,,,,,,Western Australia
+117,Disaster Event,Flood - Melbourne and Central Victoria,12/26/1999 0:00,12/28/1999 0:00,-37.73792267,144.9650879,,100,,,10000000,,,,,,,,,,,,,,Victoria
+118,Disaster Event,Severe Storm - Illawarra and Sydney,8/31/1996 0:00,8/31/1996 0:00,-34.23423004,150.9191895,,,,,10000000,,,,,,,,,,,,,,New South Wales
+119,Disaster Event,Industrial - Wonthaggi Gas Explosion,2/15/1937 0:00,2/15/1937 0:00,-38.60572815,145.5885315,,,,13,,,,,,,,,,,,,,,Victoria
+120,Disaster Event,Transport - Wandandian Bus Crash,2/01/2001 0:00,2/01/2001 0:00,-35.08058548,150.526001,,,35,1,,,,,,1,2,,,,,,,,New South Wales
+121,Disaster Event,Transport - Bankstown Light Aircraft Collision,3/13/1974 0:00,3/13/1974 0:00,-33.89827728,150.994812,,,,4,,,,,,,,,,,,,,,New South Wales
+122,Disaster Event,Flood - Gulf Country,12/23/1990 0:00,1/07/1991 0:00,-18.16151047,139.9163818,,,,6,32000000,,,,,,,,,,,,,,Queensland
+123,Disaster Event,Bushfire - Warenda Station Hughenden,9/29/1917 0:00,9/29/1917 0:00,-20.82608414,144.2017365,,,,3,,,,,,,,,,,,,,,Queensland
+124,Disaster Event,Industrial - Burwood Colliery,11/13/1901 0:00,11/13/1901 0:00,-32.97655487,151.7085724,,,,3,,,,,,,,,,,,,,,New South Wales
+125,Disaster Event,Bushfire - Widespread Victoria,1/01/1906 0:00,2/15/1906 0:00,-38.60105896,146.3005219,,,,12,,,,,,,,,,,,,,,Victoria
+126,Disaster Event,Shipwreck - PSS Cawarra,12/07/1866 00:00:00,12/07/1866 00:00:00,-33.2800293,151.6387939,,,,62,,,,,,,,,1,,,,,,New South Wales
+127,Disaster Event,Flood - North and Central Queensland,2/05/2000 0:00,2/28/2000 0:00,-16.92339897,145.7738495,,,10,,12000000,,,,,,,,,,,,,,Queensland
+128,Disaster Event,Cyclone Althea,12/24/1971 0:00,12/27/1971 0:00,-19.25200272,146.8206024,,,25,3,25000000,1000,,,,,,,,,,,,,Queensland
+129,Disaster Event,Bushfire - Australian Capital Territory and South-West New South Wales,10/26/1951 0:00,1/31/1952 0:00,-35.11680222,147.3616333,,,,13,,,,,,,,,,,,,10000,,New South Wales
+130,Disaster Event,Severe Storm - Cape York and Townsville,3/12/1934 0:00,3/13/1934 0:00,-16.07979584,145.4644775,,,,75,,,,,,,,,,,,,,,Queensland
+131,Disaster Event,Bushfire - Ash Wednesday,2/16/1983 0:00,2/18/1983 0:00,-37.40233612,144.5871124,,9000,1500,75,176000000,,2000,,,,,,,,,,30000,,Victoria;South Australia
+132,Disaster Event,Flood - Burdekin River,4/07/1940 0:00,4/09/1940 0:00,-20.61478996,146.9641113,,,,3,,,,,,,,,,,,,,,Queensland
+133,Disaster Event,"Flood - Gympie, Southern Queensland, and Eastern New South Wales",4/25/1989 0:00,4/30/1989 0:00,-26.1891,152.66593,,,,3,,,,,,,,,,,,,,,Queensland
+134,Disaster Event,Flood - Bolwarra,28/07/1857 00:00:00,29/07/1857 00:00:00,-32.707578,151.575108,,,,26,,,,,,,,,,,,,,,New South Wales
+135,Disaster Event,Industrial - Melbourne Crane Collapse,10/01/1961 0:00,10/01/1961 0:00,-37.81599045,144.9641266,,,,3,,,,,,,,,,,,,,,Victoria
+136,Disaster Event,"Severe Storm - Sydney, Hunter Valley and Northern Regions",12/03/2001 0:00,12/03/2001 0:00,-33.59631729,150.7569733,,,,2,30000000,,,,,,,,,,,,,,New South Wales
+137,Disaster Event,Shipwreck - Circassian,06/10/1864 00:00:00,06/10/1864 00:00:00,-37.77695847,149.4868469,,,4,4,,,,,,,,,1,,,,,,Victoria
+138,Disaster Event,Shipwreck - Kakariki and SS Caradale,1/29/1937 0:00,1/29/1937 0:00,-37.85510254,144.9261017,,,,5,,,,,,,,,1,,,,,,Victoria
+139,Disaster Event,Criminal Act - Hoddle Street Shooting,8/09/1987 0:00,8/09/1987 0:00,-37.78858948,144.9954071,,,19,7,,,,,,,,,,,,,,,Victoria
+140,Disaster Event,Bushfire - Lara and Melbourne Fringe,1/08/1969 0:00,1/09/1969 0:00,-38.0235939,144.4078674,,800,100,23,,,230,,21,,,,,,,,,,Victoria
+141,Disaster Event,Shipwreck - Blythe Star II,10/12/1973 0:00,10/12/1973 0:00,-43.04982376,148.0723572,,,,3,,,,,,,,,1,,,,,,Tasmania
+142,Disaster Event,Flood - Southern Tasmania,26/02/1854 00:00:00,22/03/1854 00:00:00,-42.881279,147.323914,,,,,,,,,,,,,,,,,,,Tasmania
+143,Disaster Event,Shipwreck - Bunyip,08/12/1863 00:00:00,08/12/1863 00:00:00,-34.01965714,140.8323669,,,,4,,,,,,,,,1,,,,,,South Australia
+144,Disaster Event,Transport - Glenbrook (Blue Mountains) Railway Accident,12/02/1999 0:00,12/02/1999 0:00,-33.76890945,150.6204834,,,51,7,,,,,,,,,,,,,,,New South Wales
+145,Disaster Event,Industrial - Wyee State Mine,10/21/1966 0:00,10/21/1966 0:00,-33.17276001,151.4848175,,,,5,,,,,,,,,,,,,,,New South Wales
+146,Disaster Event,Transport - Goulburn Light Aircraft Crash,5/15/1984 0:00,5/15/1984 0:00,-34.80872726,149.7335205,,,,4,,2,,,,,,,,,,,,,New South Wales
+147,Disaster Event,Transport - Albany Light Aircraft Crash,3/13/1996 0:00,3/13/1996 0:00,-35.02310944,117.8846741,,,,4,,,,,,,,,,,,,,,Western Australia
+148,Disaster Event,Shipwreck - Banshee,21/03/1876 00:00:00,21/03/1876 00:00:00,-18.23978615,146.4511871,,,,7,,,,,,,,,1,,,,,,Queensland
+149,Disaster Event,Shipwreck - Sappho,01/02/1858 00:00:00,01/02/1858 00:00:00,-39.15828323,146.3859558,,,,50,,,,,,,,,1,,,,,,Victoria
+150,Disaster Event,Severe Storm - Kosciuszko NP,8/07/1999 0:00,8/11/1999 0:00,-36.33946609,148.5736084,,,,4,,,,,,,,,,,,,,,New South Wales
+151,Disaster Event,Bushfire - Blue Mountains and Illawarra,10/15/1968 0:00,12/03/1968 0:00,-33.59318924,150.5356445,,,,14,,,,,,,,,,,,,,,New South Wales
+152,Disaster Event,Environmental - Tasmania and Victoria Drought,10/01/1996 0:00,9/30/2000 0:00,-38.33088303,141.6000366,,,,,,,,,,,,,,,,,,,Tasmania;Victoria;South Australia
+153,Disaster Event,Shipwreck - Bertha,08/09/1870 00:00:00,08/09/1870 00:00:00,-38.86644363,145.7803345,,,1,7,,,,,,,,,1,,,,,,Victoria
+154,Disaster Event,Bushfire - Black Tuesday Tasmania,2/07/1967 0:00,2/07/1967 0:00,-43.16512299,146.2417603,,,,62,14000000,,1400,,,,,,,,,,20000,,Tasmania
+156,Disaster Event,Transport - Clybucca Flat (near Kempsey) Bus Collision,12/22/1989 0:00,12/22/1989 0:00,-30.94066048,152.9444427,,,41,35,,,,,,,2,,,,,,,,New South Wales
+157,Disaster Event,Flood - Nowra,01/01/1860 00:00:00,01/01/1860 00:00:00,-34.867905,150.596981,,,,16,,,,,,,,,,,,,,,New South Wales
+158,Disaster Event,Environmental - Drought 1913,1/01/1913 0:00,12/31/1915 0:00,-35.33641434,143.5621185,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+159,Disaster Event,Shipwreck - Elmgrove,09/09/1876 00:00:00,09/09/1876 00:00:00,-38.94766235,146.1682892,,,2,7,,,,,,,,,1,,,,,,Victoria
+160,Disaster Event,Transport - Beaufort Train Derailment,2/05/1910 0:00,2/05/1910 0:00,-37.42661667,143.3877106,,,1,3,,,,,,,,,,,,,,,Victoria
+161,Disaster Event,Shipwreck - Nonpareil,13/10/1857 00:00:00,13/10/1857 00:00:00,-38.3000412,144.6065216,,,,4,,,,,,,,,1,,,,,,Victoria
+162,Disaster Event,Transport - Southern Aurora,2/07/1969 0:00,2/07/1969 0:00,-36.64189529,145.7070618,,,40,9,,,,,,,,,,,,,,,Victoria
+163,Disaster Event,Shipwreck - Dunbar,20/08/1857 00:00:00,20/08/1857 00:00:00,-33.85188675,151.2542725,,,,121,,,,,,,,,1,,,,,,New South Wales
+164,Disaster Event,Shipwreck - Sally,01/08/1826 00:00:00,01/08/1826 00:00:00,-33.51391983,151.2240601,,,,3,,,,,,,,,1,,,,,,New South Wales
+165,Disaster Event,Shipwreck - Christina Fraser,6/24/1933 0:00,6/24/1933 0:00,-37.56570435,149.9029999,,,,18,,,,,,,,,1,,,,,,Victoria
+166,Disaster Event,"Shipwreck - Lily of the Lake, Wild Wave, Blossom",24/12/1875 00:00:00,24/12/1875 00:00:00,-21.91247177,114.2248535,,,,57,,,,,,,,,3,,,,,,Western Australia
+167,Disaster Event,Shipwreck - HMAS Wollongong,5/16/1943 0:00,5/16/1943 0:00,-34.59761047,150.9013367,,,,4,,,,,,,,,1,,,,,,New South Wales
+168,Disaster Event,Shipwreck - Sibigo,3/16/1945 0:00,3/16/1945 0:00,-16.4992981,146.1621094,,,,72,,,,,,,,,2,,,,,,Queensland
+170,Disaster Event,Shipwreck - Spencer,13/01/1854 00:00:00,13/01/1854 00:00:00,-39.12579727,146.2609863,,,,5,,,,,,,,,1,,,,,,Victoria
+171,Disaster Event,Industrial - Kianga Mine,9/20/1975 0:00,9/20/1975 0:00,-24.5621109,149.9695587,,,,13,,,,,,,,,,,,,,,Queensland
+172,Disaster Event,Shipwreck - Vicky,6/25/1956 0:00,6/25/1956 0:00,-39.59299088,146.4367676,,,,8,,,,,,,,,1,,,,,,Victoria
+173,Disaster Event,Severe Storm - Ipswich,4/10/1998 0:00,4/10/1998 0:00,-27.61335373,152.7585449,,,,3,,,,,,,,,,,,,,,Queensland
+174,Disaster Event,Shipwreck - Stirling Castle,21/05/1836 00:00:00,21/05/1836 00:00:00,-24.96614075,152.7703857,,,8,10,,,,,,,,,1,,,,,,Queensland
+175,Disaster Event,Shipwreck - Carlisle Castle and City of York,12/07/1899 00:00:00,12/07/1899 00:00:00,-32.05973816,115.7182236,,,,33,,,,,,,,,2,,,,,,Western Australia
+176,Disaster Event,Shipwreck - Balclutha,18/10/1881 00:00:00,18/10/1881 00:00:00,-37.58675766,149.8890533,,,,22,,,,,,,,,1,,,,,,New South Wales
+177,Disaster Event,Cyclone Joan,12/08/1975 0:00,12/09/1975 0:00,-13.41099358,125.859375,,20,,,20000000,,,,,,,,,,,,,,Western Australia
+178,Disaster Event,Shipwreck - Domain,11/04/1846 00:00:00,11/04/1846 00:00:00,-39.010648,146.163483,,,1,14,,,,,,,,,,,,,,,Victoria
+179,Disaster Event,Shipwreck - Alert,28/12/1893 00:00:00,28/12/1893 00:00:00,-39.09809494,146.6921997,,,1,15,,,,,,,,,,,,,,,Victoria
+180,Disaster Event,Hail - Toowoomba,1/09/1976 0:00,1/09/1976 0:00,-27.56375313,151.9540558,,,,,12000000,,,,,,,,,,,,,,Queensland
+181,Disaster Event,"Flood - Sydney,  North Coast, and North Western Districts",1/16/1950 0:00,1/19/1950 0:00,-28.32561302,153.395401,,,,10,,8000,,,,,,,,,,,1000,,New South Wales
+182,Disaster Event,Shipwreck - Star of Greece,13/07/1888 00:00:00,13/07/1888 00:00:00,-35.28150177,138.416748,,,,17,,,,,,,,,1,,,,,,South Australia
+183,Disaster Event,Shipwreck - Rainbow,02/06/1864 00:00:00,02/06/1864 00:00:00,-32.39851761,152.5012207,,,2,7,,,,,,,,,1,,,,,,New South Wales
+184,Disaster Event,Chemical - HMAS Westralia (II),5/05/1998 0:00,5/05/1998 0:00,-31.99642944,115.6283569,,,9,4,,,,,,,,1,,,,,,,Western Australia
+185,Disaster Event,Transport - Sydenham Train Derailment,2/15/1901 0:00,2/15/1901 0:00,-33.92403412,151.1565094,,,30,7,,,,,,,,,,,,,,,New South Wales
+186,Disaster Event,"Flood - Brisbane, Sunshine Coast, and Gold Coast",3/09/2001 0:00,3/11/2001 0:00,-27.96529579,153.3924866,50,,,2,37000000,707,,,,166,,,,,,,,,Queensland
+187,Disaster Event,Shipwreck - Schah,20/12/1837 00:00:00,20/12/1837 00:00:00,-37.77695465,149.4868469,,,12,7,,,,,,,,,1,,,,,,Victoria
+188,Disaster Event,Severe Storm - Adelaide,12/06/1986 0:00,12/08/1986 0:00,-34.92745972,138.5999908,,50,,,10000000,,,,,,,,,,,,,,South Australia
+189,Disaster Event,Shipwreck - Georgette,30/11/1876 00:00:00,30/11/1876 00:00:00,-33.97399902,114.9775772,,,,12,,,,,,,,,,,,,,,Western Australia
+190,Disaster Event,"Transport - Essendon Melbourne, Light Aircraft Crash",7/10/1978 0:00,7/10/1978 0:00,-37.71876144,144.897049,,,4,6,,2,1,,,,,,,,,,,,Victoria
+191,Disaster Event,Severe Storm - Western Sydney,11/09/1976 0:00,11/09/1976 0:00,-33.85551834,150.862793,,,10,,732000000,,,,,,,,,,,,,,New South Wales
+192,Disaster Event,Hail - Singleton,12/11/1996 0:00,12/11/1996 0:00,-32.56196976,151.1753235,,,,,49000000,700,,,,2000,50,,,,,,,,New South Wales
+193,Disaster Event,Flood - Clermont and Peak Downs Feb 1870,01/02/1870 00:00:00,01/02/1870 00:00:00,-22.81669426,147.6480103,,,,15,,,,,,,,,,,,,,,Queensland
+194,Disaster Event,Epidemic - Bubonic Plague Sydney,1/19/1900 0:00,1/01/1925 0:00,-33.87497711,151.2158203,,,1371,535,,,,,,,,,,,,,,,Queensland;New South Wales;South Australia;Western Australia;Victoria
+195,Disaster Event,Bushfire - Western Sydney and Central Coast,10/16/1991 0:00,1/31/1992 0:00,-33.65120697,151.0015869,,,,2,12000000,,14,,,,,,,,,,,,New South Wales
+196,Disaster Event,Bushfire - Central Victoria and Alpine Fires,1/14/1985 0:00,1/28/1985 0:00,-37.04653931,143.736969,,600,,3,,,180,,,,,,,,,,46000,,Victoria
+197,Disaster Event,Environmental - Northern Australia,1/01/1951 0:00,4/01/1954 0:00,-25.16517258,143.6572266,,,,,,,,,,,,,,,,,100000,,Western Australia
+198,Disaster Event,Transport - Wokalup Train Crash,11/06/1920 0:00,11/06/1920 0:00,-33.17391205,115.8625031,,,,9,,,,,,,,,,,,,,,Western Australia
+199,Disaster Event,Industrial - Bellbird Colliery,9/01/1923 0:00,9/01/1923 0:00,-32.84729004,151.3215637,,,,21,,,,,,,,,,,,,,,New South Wales
+200,Disaster Event,Criminal Act - Queen Street Shooting,12/08/1987 0:00,12/08/1987 0:00,-37.8139801,144.9599915,,,5,9,,,,,,,,,,,,,,,Victoria
+201,Disaster Event,Flood - Sydney and Wollongong,8/17/1998 0:00,8/19/1998 0:00,-34.42443466,150.8930969,,,,1,40000000,50,,,,,,,,,,,,,New South Wales
+202,Disaster Event,Complex Emergencies - Lake Illawarra,1/05/1975 0:00,1/05/1975 0:00,-42.94033813,147.3829651,,,,12,,,,,,,,,1,,,,,,Tasmania
+203,Disaster Event,Shipwreck - Keilawarra,08/12/1886 00:00:00,08/12/1886 00:00:00,-30.23798943,153.1813049,,,,40,,,,,,,,1,1,,,,,,New South Wales
+204,Disaster Event,Complex Emergencies -  Cape Moreton,5/14/1943 0:00,5/14/1943 0:00,-26.97470856,153.432312,,,,268,,,,,,,,,1,,,,,,Queensland
+205,Disaster Event,Transport - Aberdeen Bridge Collapse,6/10/1926 0:00,6/10/1926 0:00,-32.16685867,150.8920288,,,39,4,,,,,,,,,,,,,,,New South Wales
+206,Disaster Event,Bushfire - South-East Victoria,2/01/1926 0:00,3/10/1926 0:00,-37.75360107,145.6890869,,700,,60,,,,,,,,,,,,,,,Victoria
+207,Disaster Event,Shipwreck - Amelia J,8/21/1920 0:00,8/21/1920 0:00,-35.16931915,150.803833,,,,12,,,,,,,,,1,,,,,,Victoria
+208,Disaster Event,Transport - Bookham Coach Semi-Trailer Collision,8/07/1998 0:00,8/07/1998 0:00,-34.83846283,148.9116058,,,19,3,,,,,,,,,,,,,,,New South Wales
+209,Disaster Event,Shipwreck - Vergulde Draeck,01/01/1753 00:00:00,01/01/1753 00:00:00,-33.30011749,115.6585693,,,,100,,,,,,,,,1,,,,,,Western Australia
+210,Disaster Event,Bushfire - Linton (near Ballarat),12/02/1998 0:00,12/02/1998 0:00,-37.68438339,143.5633545,,,,5,,,,,,,2,,,,,,,,Victoria
+211,Disaster Event,Transport - Koolan Island Light Aircraft Crash,12/23/1984 0:00,12/23/1984 0:00,-16.12482,123.782787,,,,6,,,,,,,,,,,,,,,Western Australia
+212,Disaster Event,Flood - Brisbane River,1/25/1974 0:00,1/29/1974 0:00,-27.4712677,153.0091705,2500,,300,13,68000000,6000,56,,,,,,,,,,,,Queensland
+213,Disaster Event,Hail - Sydney Apr 1999,4/14/1999 0:00,4/14/1999 0:00,-33.9096756,151.2230225,,500,50,1,1700000000,20000,,2500,,40000,,60,,2000,,,,,New South Wales
+214,Disaster Event,Shipwreck - Conside,14/09/1852 00:00:00,14/09/1852 00:00:00,-38.29613495,144.5859222,,,,14,,,,,,,,,1,,,,,,Victoria
+215,Disaster Event,Complex Emergencies - HMAS Stalwart Poisonous Gases,10/22/1985 0:00,10/22/1985 0:00,-12.4713583,130.8701324,,,60,3,,,,,,,,,,,,,,,Outside Australia
+216,Disaster Event,Shipwreck - Sierra Nevada,5/09/1900 0:00,5/09/1900 0:00,-38.33506012,144.6839294,,,,23,,,,,,,,,1,,,,,,Victoria
+217,Disaster Event,"Flood - Brisbane, Ipswich and Maryborough",01/02/1893 00:00:00,15/02/1893 00:00:00,-27.61281967,152.7580261,,5000,300,35,,,,,,,,,,,,,,,Queensland
+218,Disaster Event,Cyclone Audrey,2/28/1969 0:00,3/09/1969 0:00,-12.05006504,134.2199707,,,,4,,,,,,,,,,,,,,,Northern Territory
+219,Disaster Event,Hail - Western Sydney,10/03/1986 0:00,10/03/1986 0:00,-33.81459808,151.0031281,,120,10,,104000000,,,,,,,,,,,,,,New South Wales
+220,Disaster Event,Shipwreck - Carrington,19/05/1842 00:00:00,20/05/1842 00:00:00,-32.7087326,152.2990112,,,,5,,,,,,,,,1,,,,,,New South Wales
+221,Disaster Event,Shipwreck - Glenelg,3/25/1911 0:00,3/25/1911 0:00,-38.2683754,147.5079346,,,,31,,,,,,,,,1,,,,,,Victoria
+222,Disaster Event,Cyclone Emily,3/27/1972 0:00,4/02/1972 0:00,-23.41284752,150.8175659,,,,8,,,,,,,,,,,,,,,Queensland
+223,Disaster Event,Transport - Bundaberg Air Ambulance Crash ,6/21/1987 0:00,6/21/1987 0:00,-24.86404991,152.3483582,,,1,4,,,,,,,,,,,,,,,Queensland
+224,Disaster Event,Bushfire - East Coast Queensland,9/27/1994 0:00,11/07/1994 0:00,-27.08205414,152.9538879,3000,,9,,59100000,,23,,,,,,,,,,,,Queensland
+225,Disaster Event,Shipwreck - Bogong,23/09/1896 00:00:00,23/09/1896 00:00:00,-37.80695343,148.5411224,,,3,4,,,,,,,,,1,,,,,,Victoria
+226,Disaster Event,Shipwreck - Monumental City,15/05/1853 00:00:00,15/05/1853 00:00:00,-37.55485153,149.8433075,,,,37,,,,,,,,,1,,,,,,Victoria
+227,Disaster Event,Shipwreck - St Patrick,13/01/1835 00:00:00,13/01/1835 00:00:00,-33.84646606,151.2927246,,,,3,,,,,,,,,1,,,,,,New South Wales
+228,Disaster Event,Industrial - Moura Mine 1986,7/16/1986 0:00,7/16/1986 0:00,-24.55961037,149.9702454,,,,12,,,,,,,,,,,,,,,Queensland
+229,Disaster Event,Transport - Koo-Wee-Rup Rail Collision,12/24/1928 0:00,12/24/1928 0:00,-38.19873047,145.4858093,,,54,,,,,,,,,,,,,,,,Victoria
+230,Disaster Event,Urban Fire - Sydney Luna Park,6/09/1979 0:00,6/09/1979 0:00,-33.87269592,151.2069855,,,,7,,,,,,,,,,,,,,,New South Wales
+231,Disaster Event,Industrial - Mount St Canice,9/05/1974 0:00,9/05/1974 0:00,-42.89118576,147.326828,,,17,8,,,,1,,,,,,,,,,,Tasmania
+232,Disaster Event,Industrial - Cleve Structure Collapse,8/06/1996 0:00,8/06/1996 0:00,-33.70070648,136.4931488,,,50,,,,,,,,,,,,,,,,South Australia
+233,Disaster Event,Earthquake - Adelaide,3/01/1954 0:00,3/01/1954 0:00,-34.97600174,138.6254883,,,3,,,,,3000,,,,,,,,,,,South Australia
+234,Disaster Event,Shipwreck - Tubal Cain,26/08/1862 00:00:00,26/08/1862 00:00:00,-39.01918411,142.3608398,,,1,12,,,,,,,,1,1,,,,,,Victoria
+235,Disaster Event,Bushfire - Black Sunday Mt Lofty Ranges,1/02/1955 0:00,1/02/1955 0:00,-35.00764465,138.7087402,,,,2,,,,,,,,,,,,,,,South Australia
+236,Disaster Event,Industrial - Blackmans Flat,1/01/1972 0:00,1/01/1972 0:00,-33.34960175,150.0548706,,,,3,,,,,,,,,,,,,,,New South Wales
+237,Disaster Event,Cyclone Bobby,2/24/1995 0:00,2/27/1995 0:00,-21.63766289,115.1149368,,,,8,11000000,20,,,,,,,,,,,,,Western Australia
+238,Disaster Event,Complex Emergencies - Sydney to Hobart Yacht Race,12/26/1998 0:00,12/30/1998 0:00,-39.32579803,145.8325195,,,70,6,5000000,,,,,,,80,7,,,,,,Victoria
+239,Disaster Event,Bushfire - Saltern Creek,9/16/1918 0:00,12/30/1918 0:00,-23.44151306,144.2484283,,,,5,,,,,,,,,,,,,,,Queensland
+240,Disaster Event,Hail - Sydney Jan 1947,1/01/1947 0:00,1/01/1947 0:00,-33.81110382,151.2130737,,,300,,,,,,,,,,,,,,,,New South Wales
+241,Disaster Event,Shipwreck - Marmion,28/05/1853 00:00:00,28/05/1853 00:00:00,-38.32011032,144.6295166,,,,4,,,,,,,,,1,,,,,,Victoria
+242,Disaster Event,Shipwreck - Candidate,7/14/1912 0:00,7/14/1912 0:00,-32.28712845,152.677002,,,,5,,,,,,,,,1,,,,,,New South Wales
+243,Disaster Event,Shipwreck - SS Federal,3/21/1901 0:00,3/21/1901 0:00,-37.5698204,149.9055786,,,,21,,,,,,,,,,,,,,,Victoria
+244,Disaster Event,"Transport - Williamtown to Lord Howe Island, Light Aircraft Crash",10/02/1994 0:00,10/02/1994 0:00,-31.57853508,156.8518066,,,,9,,,,,,,,,,,,,,,New South Wales
+245,Disaster Event,Bushfire - Black Christmas,12/24/2001 0:00,1/11/2002 0:00,-35.05125809,150.6684265,11000,,,,69000000,40,109,,443,,222,,,,,,7043,,New South Wales;Australian Capital Territory
+246,Disaster Event,Shipwreck - Casino,7/10/1932 0:00,7/10/1932 0:00,-38.7717514,143.7193756,,,,10,,,,,,,,,1,,,,,,Victoria
+247,Disaster Event,"Earthquake - Hunter Valley, Ellalong and Cessnock",8/06/1994 0:00,8/06/1994 0:00,-32.78034592,151.3469696,,,,,37200000,,,,,,,,,,,,,,New South Wales
+248,Disaster Event,Flood - Sydney Nov 1984,11/08/1984 0:00,11/08/1984 0:00,-33.85963821,151.2046814,,,,,80000000,,,,,,,,,,,,,,New South Wales
+249,Disaster Event,Environmental - Central Wheatbelt Western Australia,9/19/1998 0:00,9/23/1998 0:00,-31.47698784,118.2832718,,,,,,,,,,,,,,,,,,,Western Australia
+250,Disaster Event,Epidemic - Poliomyelitis,1/01/1930 0:00,1/01/1959 0:00,-27.47023964,153.0234222,,,40000,,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+251,Disaster Event,Environmental - Heatwave Dec 1911,12/01/1911 0:00,2/28/1912 0:00,-27.15840912,132.7209015,,,,143,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+252,Disaster Event,Transport - York Aircraft Crash,6/27/1950 0:00,6/27/1950 0:00,-31.94662666,116.6133499,,,,29,,,,,,,,,,,,,,,Western Australia
+253,Disaster Event,"Shipwreck - Highlander, Baruah, Elizabeth Jane, Effort and Pelican.",22/06/1852 00:00:00,23/06/1852 00:00:00,-33.34444046,151.5233459,,,,7,,,,,,,,,5,,,,,,New South Wales
+254,Disaster Event,Flood - Woden Valley,1/26/1971 0:00,1/26/1971 0:00,-35.36168671,149.07164,,,15,7,,,,,,,,,,,,,,,Australian Capital Territory
+255,Disaster Event,Industrial - Collinsville Mine,10/13/1954 0:00,10/13/1954 0:00,-20.54922295,147.8450775,,,2,7,,,,,,,,,,,,,,,Queensland
+256,Disaster Event,Industrial - Stanford Merthyr Mine,10/29/1905 0:00,10/29/1905 0:00,-32.8270607,151.4887695,,,,6,,,,,,,,,,,,,,,New South Wales
+257,Disaster Event,Cyclone Agnes,3/06/1956 0:00,3/07/1956 0:00,-19.25200272,146.8206024,,,,4,,,20,,,,,,,,,,,,Queensland
+258,Disaster Event,Chemical - HMAS Tarakan Explosion,1/25/1950 0:00,1/25/1950 0:00,-33.85652542,151.2245331,,,12,8,,,,,,,,,1,,,,,,New South Wales
+259,Disaster Event,Shipwreck - Cambus Wallace,02/09/1894 00:00:00,02/09/1894 00:00:00,-27.1960144,154.2700195,,,,5,,,,,,,,,1,,,,,,Queensland
+260,Disaster Event,Transport - Murulla Train Accident,9/13/1926 0:00,9/13/1926 0:00,-31.75240135,150.8330078,,,38,27,,,,,,,,,,,,,,,New South Wales
+261,Disaster Event,Shipwreck - Yongala,3/23/1911 0:00,3/23/1911 0:00,-18.27108574,155.8740234,,,,137,,,,,,,,,1,,,,,,Queensland
+262,Disaster Event,Flood - Sydney Aug 1986,8/04/1986 0:00,8/06/1986 0:00,-34.42443466,150.8930969,,,,6,35000000,10000,,,,,,,,,,,,,New South Wales
+263,Disaster Event,Complex Emergencies - Cowra POW Attempted Mass Escape,8/05/1944 0:00,8/18/1944 0:00,-33.67863846,148.727417,,,108,231,,,,,,,,,,,,,,,New South Wales
+264,Disaster Event,Shipwreck - Koenig Willem ll,30/06/1857 00:00:00,30/06/1857 00:00:00,-37.17345047,139.7275543,,,,16,,,,,,,,,1,,,,,,South Australia
+265,Disaster Event,"Flood - Gnarr Creek, Ballarat",12/16/1991 0:00,12/18/1991 0:00,-37.56203079,143.8566589,,220,,,24000000,,,,,,,,,,,,,,Victoria
+266,Disaster Event,Shipwreck - Macclesfield,11/07/1861 00:00:00,11/07/1861 00:00:00,-38.692745,146.753483,,,,6,,,,,,,,,1,,,,,,Victoria
+267,Disaster Event,Transport - Sydenham (Sydney) Train Collision,12/19/1953 0:00,12/19/1953 0:00,-33.92790604,151.1530304,,,748,5,,,,,,,,,,,,,,,New South Wales
+268,Disaster Event,Shipwreck - N'glucka,1/08/1990 0:00,1/08/1990 0:00,-32.71191025,152.1253662,,,,5,,,,,,,,,1,,,,,,New South Wales
+269,Disaster Event,"Flood - Grafton, Kempsey and North Coast New South Wales",3/05/2001 0:00,3/12/2001 0:00,-29.69111061,152.9332886,3000,250,,,25000000,,,,,,,,,,,,,,New South Wales
+270,Disaster Event,Shipwreck - Favourite,17/05/1852 00:00:00,17/05/1852 00:00:00,-37.508092,149.988098,,,,21,,,,,,,,,,,,,,,Victoria
+271,Disaster Event,Cyclone Hazel,3/01/1979 0:00,3/01/1979 0:00,-24.88456726,113.6291885,,,5,15,15000000,,,,,,,,1,,,,,,Western Australia
+272,Disaster Event,Industrial - Mount Mulligan Mine,9/19/1921 0:00,9/19/1921 0:00,-16.81308556,144.8403168,,,,75,,,,,,,,,,,,,,,Queensland
+273,Disaster Event,Transport - Cowper (near Grafton) Bus and Semi-Trailer Collision,10/20/1989 0:00,10/20/1989 0:00,-29.56785774,153.0895081,,,22,21,,,,,,,2,,,,,,,,New South Wales
+274,Disaster Event,Urban Fire - Shepparton Factory Fire,1/01/1963 0:00,1/01/1963 0:00,-36.34859085,145.4618225,,,,3,,,,,,,,,,,,,,,Victoria
+275,Disaster Event,Environmental - Federation Drought,01/01/1895 00:00:00,1/01/1902 0:00,-30.04769897,145.9396362,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+276,Disaster Event,Shipwreck - Zeewijk,01/01/1753 00:00:00,01/01/1753 00:00:00,-28.65203094,113.8046265,,,,130,,,,,,,,,1,,,,,,Western Australia
+277,Disaster Event,Shipwreck - Thetis,26/05/1848 00:00:00,26/05/1848 00:00:00,-38.29532623,144.5993042,,,20,4,,,,,,,,,1,,,,,,Victoria
+278,Disaster Event,Industrial - Dudley Mine,21/03/1898 00:00:00,21/03/1898 00:00:00,-32.98706818,151.7151031,,,,15,,,,,,,,,,,,,,,New South Wales
+279,Disaster Event,Transport - Berala Rail Collision,5/07/1952 0:00,5/07/1952 0:00,-33.87202072,151.0318909,,,140,10,,,,,,,,,,,,,,,New South Wales
+280,Disaster Event,Hail - Brisbane and Region,12/16/1998 0:00,12/16/1998 0:00,-27.41870308,153.0553284,,,,,76000000,2600,,,,1500,,,,,,,,,Queensland
+281,Disaster Event,Shipwreck - Sedco Helen,1/31/1970 0:00,1/31/1970 0:00,-12.76894569,129.2431641,,,,9,,,,,,,,,1,,,,,,Northern Territory
+282,Disaster Event,Bushfire - Black Thursday Victoria,06/02/1851 00:00:00,07/02/1851 00:00:00,-38.26670456,146.7412109,,100,,12,,,,,,,,,,,,,,,Victoria
+283,Disaster Event,Shipwreck - Pareora,9/19/1919 0:00,9/19/1919 0:00,-34.41597366,137.0214844,,,7,11,,,,,,,,,1,,,,,,South Australia
+284,Disaster Event,Shipwreck - Admella,06/08/1859 00:00:00,06/08/1859 00:00:00,-38.06606674,140.6667175,,,24,89,,,,,,,,,,,,,,,South Australia
+285,Disaster Event,Shipwreck - Coramba,11/29/1934 0:00,11/30/1934 0:00,-38.52533722,145.1005554,,,,16,,,,,,,,,1,,,,,,Victoria
+286,Disaster Event,Industrial - Western Main,5/29/1991 0:00,5/29/1991 0:00,-33.46237946,145.5345154,,,,3,,,,,,,,,,,,,,,New South Wales
+287,Disaster Event,Transport - Hurstville Rail Accident,8/03/1920 0:00,8/03/1920 0:00,-33.96678162,151.1014099,,,18,4,,,,,,,,,,,,,,,New South Wales
+288,Disaster Event,Environmental - World War II Drought,1/01/1939 0:00,6/30/1945 0:00,-35.11990738,147.3596191,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+289,Disaster Event,Urban Fire - Somers Hospital Fire,9/09/1952 0:00,9/09/1952 0:00,-38.92362595,146.2733459,,,26,5,,,,,1,,,,,,,,,,Victoria
+290,Disaster Event,Urban Fire - Kings Cross 1989,9/17/1989 0:00,9/17/1989 0:00,-33.87305069,151.2222137,,,18,6,,,,,1,,,,,,,,,,New South Wales
+291,Disaster Event,Industrial - Greta Colliery Fire,12/05/1900 0:00,12/05/1900 0:00,-32.64515686,151.3902283,,,,5,,,,,,,,,,,,,,,New South Wales
+292,Disaster Event,Shipwreck - Loch Lomond,7/19/1908 0:00,7/19/1908 0:00,-17.81145668,168.0029297,,,,19,,,,,,,,,1,,,,,,New South Wales
+293,Disaster Event,Shipwreck - Meg Merrilies,24/05/1856 00:00:00,24/05/1856 00:00:00,-38.817241,146.519165,,,,4,,,,,,,,,,,,,,,Victoria
+294,Disaster Event,Transport - Parafield Region Light Aircraft Crash,2/08/1969 0:00,2/08/1969 0:00,-34.788396,138.634071,,,,4,,,,,,,,,,,,,,,South Australia
+295,Disaster Event,Bushfire - Gippsland February 1932,2/04/1932 0:00,2/28/1932 0:00,-37.0245285,145.1369171,,,,9,,,,,,,,,,,,,,,Victoria
+296,Disaster Event,Transport - Wangaratta Truck and Bus Collision,11/01/1993 0:00,11/01/1993 0:00,-36.34154129,146.3813171,,,35,9,,,,,,,,,,,,,,,Victoria
+297,Disaster Event,Urban Fire - Wool Store,8/22/1946 0:00,8/22/1946 0:00,-33.87269592,151.2069855,,,,,,,,,1,,,,,,1,,,,New South Wales
+298,Disaster Event,Transport - Balgowlah Bus Crash,3/10/1947 0:00,3/10/1947 0:00,-33.79503632,151.2691803,,,70,,,,,,,1,,,,,,,,,New South Wales
+299,Disaster Event,Criminal Act - Port Arthur Shooting Massacre,4/28/1996 0:00,4/28/1996 0:00,-43.13644409,147.8509064,,,21,35,,,,,,,,,,,,,,,Tasmania
+300,Disaster Event,Transport - Leonora Light Aircraft Crash,12/16/1988 0:00,12/16/1988 0:00,-28.482423,120.984535,,,,10,,,,,,,,,,,,,,,Western Australia
+301,Disaster Event,Flood - Eastern New South Wales,6/01/1950 0:00,6/30/1950 0:00,-30.89574432,153.0127716,,,,5,,,,,,,,,,,,,,,New South Wales
+302,Disaster Event,Severe Storm - Sydney and Blue Mountains,11/20/1994 0:00,11/20/1994 0:00,-33.91601181,150.9922791,,,2,2,29000000,,,,,,,,,,,,,,New South Wales
+303,Disaster Event,Cyclone Ada,1/17/1970 0:00,1/19/1970 0:00,-20.26155281,148.9804535,,,,14,12000000,,,,,,,,,,,,,,Queensland
+304,Disaster Event,"Severe Storm - Perth, Mandurah and South-West Coast",5/23/1994 0:00,5/24/1994 0:00,-32.53684616,115.7422714,,200,,,37000000,,,,,,,,,,,,,,Western Australia
+305,Disaster Event,Epidemic - Melbourne and Northern Victoria Legionnaires' Disease Outbreak,4/11/2000 0:00,4/27/2000 0:00,-37.81290436,144.9633179,,,131,4,,,,,,,,,,,,,,,Victoria
+306,Disaster Event,Transport - Zanthus Rail Collision,8/18/1999 0:00,8/18/1999 0:00,-31.02984238,123.5682144,,,45,,,,,,,,,,,,,,,,Western Australia
+307,Disaster Event,Flood - Alice Springs and Central Northern Territory,3/31/1988 0:00,4/02/1988 0:00,-23.49347687,132.8082275,300,,,3,10000000,,,,,,,,,,,,,,Northern Territory
+308,Disaster Event,"Environmental - Heatwave, South-East Queensland",1/20/2000 0:00,1/24/2000 0:00,-27.4644146,153.0340576,,,350,22,,,,,,,,,,,,,,,Queensland
+309,Disaster Event,Bushfire - Western Districts and Streatham,2/12/1977 0:00,2/12/1977 0:00,-37.67930603,143.0588379,,350,,4,9000000,,116,,340,,,,,,,,198000,,Victoria
+310,Disaster Event,Flood - Mid-North South Australia,14/04/1889 00:00:00,19/04/1889 00:00:00,-34.92729187,138.6278992,,,,5,,,,,,,,,,,,,,,South Australia
+311,Disaster Event,Urban Fire - Kings Cross 1981,8/25/1981 0:00,8/25/1981 0:00,-33.87319565,151.2224274,55,,,9,,,,,,,,,,,,,,,New South Wales
+312,Disaster Event,Shipwreck - Quetta,28/02/1890 00:00:00,28/02/1890 00:00:00,-9.80650425,142.4816895,,,158,133,,,,,,,,,1,,,,,,Queensland
+313,Disaster Event,Severe Storm - Sydney and Region 1998,2/04/1998 0:00,2/04/1998 0:00,-34.8499794,150.7465363,,,1,,12000000,,,,,,,,,,,,,,New South Wales
+314,Disaster Event,Flood - Widespread Queensland,1/20/1930 0:00,1/30/1930 0:00,-21.14026833,149.1857605,,,,6,,,,,,,,,,,,,,,Queensland
+315,Disaster Event,Landslide - Thredbo,7/30/1997 0:00,7/30/1997 0:00,-36.50453186,148.3059845,,,1,18,,,,,2,,,,,,,,,,New South Wales
+316,Disaster Event,"Industrial - Westgate Bridge Collapse, Melbourne",10/15/1970 0:00,10/15/1970 0:00,-37.82938004,144.8983459,,,,35,,,,,,,,,,,,,,,Victoria
+317,Disaster Event,"Flood - Toowoomba, Miles, Cairns, and Townsville",2/10/1927 0:00,2/17/1927 0:00,-16.92245293,145.7740326,,,,47,,,16,,,,,,,,,,,,Queensland
+318,Disaster Event,Transport - Horsham Train and Bus Collision,2/24/1951 0:00,2/24/1951 0:00,-36.50918961,142.1040344,,,,11,,,,,,,1,,,,,,,,Victoria
+319,Disaster Event,"Severe Storm - Sydney, Wollongong and South Coast",10/24/1999 0:00,10/24/1999 0:00,-31.63124084,152.7038727,,,,,45000000,,,,,,,,,,,,,,New South Wales
+320,Disaster Event,Bushfire - Longwood District,1/17/1965 0:00,1/17/1965 0:00,-36.80660629,145.4255676,,,,7,,,6,,,,,,,,,,,,Victoria
+321,Disaster Event,Environmental - National Drought,1/01/1958 0:00,9/01/1968 0:00,-23.70033646,133.880722,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+322,Disaster Event,Flood - South-East Queensland Feb 1928,2/14/1928 0:00,2/22/1928 0:00,-27.47046852,153.0235443,,,,5,,,,,,,,,,,,,,,Queensland
+323,Disaster Event,Transport - Sydney Airliner Crash,11/30/1961 0:00,11/30/1961 0:00,-33.91593933,151.1642761,,,,15,,,,,,,,,,,,,,,New South Wales
+324,Disaster Event,Urban Fire - Sydney Department Store,7/10/1901 0:00,7/10/1901 0:00,-33.87269592,151.2069855,,,,5,,,,,,,,,,,1,,,,New South Wales
+325,Disaster Event,Flood - Widespread New South Wales (including Queensland and South Australia),01/04/1890 00:00:00,01/10/1890 00:00:00,-34.10018539,141.9185333,,,,9,,,,,,,,,,,,,,,New South Wales
+326,Disaster Event,Flood - Tasmania,4/03/1929 0:00,4/06/1929 0:00,-41.05178452,145.9071045,,,,22,,,,,100,,,,,,,,,,Tasmania
+327,Disaster Event,Shipwreck - Toroa,06/08/1858 00:00:00,06/08/1858 00:00:00,-38.86537552,143.5144043,,,,12,,,,,,,,,1,,,,,,Victoria
+328,Disaster Event,Flood - Sydney Mar 1975,3/09/1975 0:00,3/09/1975 0:00,-33.85963821,151.2046814,,,,,15000000,,,,,,,,,,,,,,New South Wales
+329,Disaster Event,Shipwreck - Noongah,8/25/1969 0:00,8/25/1969 0:00,-30.9334507,153.083313,,,,21,,,,,,,,,1,,,,,,New South Wales
+330,Disaster Event,Bushfire - Central Western New South Wales and Southern Queensland,10/01/1926 0:00,12/17/1926 0:00,-33.15795898,148.0520935,,,,8,,,,,,,,,,,,,,,Queensland;New South Wales
+331,Disaster Event,Industrial - Redhead Colliery,1/21/1926 0:00,1/21/1926 0:00,-33.00772858,151.7102966,,,,5,,,,,,,,,,,,,,,New South Wales
+332,Disaster Event,Transport - Exeter Train Collision,3/16/1914 0:00,3/16/1914 0:00,-34.61381149,150.3174133,,,20,14,,,,,,,,,,,,,,,New South Wales
+333,Disaster Event,Severe Storm - New England and Hunter Valley,11/17/1996 0:00,11/17/1996 0:00,-31.09020615,150.9302979,,,,1,10000000,,,,,,,,,,,,,,New South Wales
+334,Disaster Event,"Flood - Queensland, Northern Territory and Western Australia",3/02/1973 0:00,3/30/1973 0:00,-16.92290306,145.773941,,,,,30000000,,,,,,,,,,,,,,Queensland
+335,Disaster Event,Cyclone Sigma,24/01/1896 00:00:00,28/01/1896 00:00:00,-19.25200272,146.8206024,,,,18,,,,,,,,,,,,,,,Queensland
+336,Disaster Event,Bushfire - Sydney and Region,12/01/1979 0:00,2/01/1980 0:00,-33.6717186,151.1949921,,,,5,,20,28,,,,,,,,,,,,New South Wales
+337,Disaster Event,Flood - Katherine Floods,1/25/1998 0:00,2/02/1998 0:00,-14.46360493,132.2644043,2000,3600,30,3,70000000,1170,,500,,,,,,,,,,,Northern Territory
+338,Disaster Event,Severe Storm - Hunter Valley and Mid-North Coast,11/30/1995 0:00,11/30/1995 0:00,-32.76039124,151.6027374,,,,,10000000,,,,,,,,,,,,,,New South Wales
+339,Disaster Event,Urban Fire - Dungog Hostel,8/02/1991 0:00,8/02/1991 0:00,-32.40094376,151.7576752,,,28,12,,,,,1,,,,,,,,,,New South Wales
+340,Disaster Event,Severe Storm - Sydney Jan 1991,1/21/1991 0:00,1/21/1991 0:00,-33.8731575,151.2069397,,,100,1,138400000,10000,20,1000,,,,,,,,,,,New South Wales
+341,Disaster Event,Urban Fire - Childers Backpackers Hostel,6/23/2000 0:00,6/23/2000 0:00,-25.23591995,152.2787933,,,,15,,,,,1,,,,,,,,,,Queensland
+342,Disaster Event,Epidemic - Food Poisoning Outbreak,11/01/1994 0:00,2/01/1995 0:00,-34.92795181,138.600174,,,22,1,,,,,,,,,,,,,,,South Australia
+343,Disaster Event,Cyclone - Rockhampton,3/02/1949 0:00,3/03/1949 0:00,-23.66465187,150.8230591,,300,,4,,,1500,,,,,,,,,,,,Queensland
+344,Disaster Event,Shipwreck - Revenge,25/03/1862 00:00:00,25/03/1862 00:00:00,-36.291054,149.504356,,,,4,,,,,,,,,,,,,,,New South Wales
+345,Disaster Event,Cyclone Vance,3/18/1999 0:00,3/24/1999 0:00,-12.46484184,130.837616,,,,,35000000,200,112,,,,,,,,,,,,Western Australia
+346,Disaster Event,Flood - Queensland South Coast,4/18/1928 0:00,4/24/1928 0:00,-23.71833229,150.371933,,,,9,,,,,,,,,,,,,,,New South Wales;Queensland
+347,Disaster Event,Bushfire - Sydney and Southern Regions,1/01/1983 0:00,1/31/1983 0:00,-34.05809784,151.0814514,,,,3,,,,,,,,,,,,,,,New South Wales
+348,Disaster Event,Shipwreck - Cumberland,05/03/1830 00:00:00,05/03/1830 00:00:00,-34.28303528,114.98909,,,,3,,,,,,,,,1,,,,,,Western Australia
+349,Disaster Event,Shipwreck - Isabella,01/11/1835 00:00:00,01/11/1835 00:00:00,-31.90437508,152.6824951,,,,3,,,,,,,,1,,,,,,,New South Wales
+350,Disaster Event,Bushfire - Black Friday,1/13/1939 0:00,1/20/1939 0:00,-37.56360245,145.4637756,,,,71,,,1000,,,,,,,,69,,,,Australian Capital Territory;New South Wales;Victoria;South Australia;Tasmania
+351,Disaster Event,Bushfire - Gippsland February 1965,2/15/1965 0:00,3/13/1965 0:00,-37.0245285,145.1369171,,,,3,,,,,60,,,,,,,,4000,,Victoria
+352,Disaster Event,Cyclone - Mackay 1955,3/07/1955 0:00,3/07/1955 0:00,-21.13790703,149.1849823,,,,8,,,,,,,,,1,,,,,,Queensland
+353,Disaster Event,Shipwreck - Columbine,01/04/1854 00:00:00,01/04/1854 00:00:00,-38.282391,144.524031,,,,4,,,,,,,,,,,,,,,Victoria
+354,Disaster Event,Severe Storm - Casino and Region,1/17/2001 0:00,1/17/2001 0:00,-28.86076164,153.0458984,,,,,35000000,800,,,,300,,,,,,,,,New South Wales
+355,Disaster Event,Earthquake - Meckering and Region,10/14/1968 0:00,10/14/1968 0:00,-31.62678337,117.0074844,,,20,,1500000,,,50,,,,,,,,,,,Western Australia
+356,Disaster Event,Transport - Spencer Gulf Light Aircraft Crash,5/31/2000 0:00,5/31/2000 0:00,-34.23224258,136.9802856,,,,8,,,,,,,,,,,,,,,South Australia
+358,Disaster Event,Severe Storm - South Eastern Australia Nov 1994,11/06/1994 0:00,11/08/1994 0:00,-37.8119545,144.9635773,,100,50,1,,,,,,,,,,,,,,,Australian Capital Territory;New South Wales;Victoria
+359,Disaster Event,Shipwreck - Gothenburg,24/02/1875 00:00:00,24/02/1875 00:00:00,-12.85464859,141.1523438,,,,102,,,,,,,,,1,,,,,,Queensland
+360,Disaster Event,Cyclone - Balla Balla,3/20/1912 0:00,3/22/1912 0:00,-20.6311779,117.7265778,,,,173,,,,,,,,,,,,,,,Western Australia
+361,Disaster Event,Flood - Dalby,2/01/1981 0:00,2/01/1981 0:00,-27.17769051,151.2635345,,,5,1,20000000,2000,,,,,,,,,,,,,Queensland
+362,Disaster Event,Cyclone - Innisfail,3/10/1918 0:00,3/10/1918 0:00,-17.52427864,146.0322876,,,,37,,,,,,,,,,,,,,,Queensland
+363,Disaster Event,Transport - El Alamein Helicopter Crash,11/25/1978 0:00,11/25/1978 0:00,-32.54420853,137.6792908,,,,5,,,,,,,,,,,,,,,South Australia
+364,Disaster Event,Shipwreck - Sea,30/05/1853 00:00:00,30/05/1853 00:00:00,-38.30933762,144.6295166,,,,24,,,,,,,,,1,,,,,,Victoria
+365,Disaster Event,Flood - Central Coast,2/16/1958 0:00,2/24/1958 0:00,-33.39017487,151.4781189,,,,3,,,20,,,,,,,,,,,,Queensland
+366,Disaster Event,Shipwreck - Rambler ,20/07/1847 00:00:00,20/07/1847 00:00:00,-36.00466919,150.3259277,,,,5,,,,,,,,,1,,,,,,New South Wales
+367,Disaster Event,Shipwreck - Antares,11/01/1914 0:00,11/01/1914 0:00,-38.57769394,142.6578064,,,,25,,,,,,,,,1,,,,,,Victoria
+368,Disaster Event,Shipwreck - John Nussey,14/08/1858 00:00:00,14/08/1858 00:00:00,-38.50143051,145.0593567,,,,4,,,,,,,,,1,,,,,,Victoria
+369,Disaster Event,Transport - Golden Grove Light Aircraft Crash,7/13/1972 0:00,7/13/1972 0:00,-34.79287338,138.6933746,,,,8,,,,,,,,,,,,,,,South Australia
+370,Disaster Event,Transport - Newman Police Aircraft Crash,1/26/2001 0:00,1/26/2001 0:00,-23.41597748,119.8016815,,,,4,,,,,,,,,,,,,,,Western Australia
+371,Disaster Event,Epidemic - Melbourne Food Poisoning 2003,1/05/2003 0:00,1/15/2003 0:00,-37.81324387,144.9628906,,,195,1,,,,,,,,,,,,,,,Victoria
+372,Disaster Event,Criminal Act - Kuta Bali Bombing,10/12/2002 0:00,10/12/2002 0:00,-8.721879005,115.1799774,,,209,202,,,,,,,,,,,,,,,Outside Australia
+373,Disaster Event,Transport - Benalla Train Derailment,10/13/2002 0:00,10/13/2002 0:00,-36.54605484,145.9825592,,,1,3,,,,,,,,,,,,,,,Victoria
+374,Disaster Event,"Bushfire - North-Eastern Victoria, Alpine Region",1/08/2003 0:00,3/19/2003 0:00,-36.72137451,146.7861481,,,,,12000000,,41,,213,,,,,,,,10000,,Victoria
+375,Disaster Event,Transport - Waterfall Train Crash,1/31/2003 0:00,1/31/2003 0:00,-34.13230515,150.9936829,,,41,7,,,,,,,,,,,,,,,New South Wales
+376,Disaster Event,Severe Storm - South Eastern Australia,8/24/2003 0:00,8/24/2003 0:00,-37.8119545,144.9635773,,,4,1,25000000,,,,,,,,,,,,,,Australian Capital Territory;New South Wales;Victoria;Tasmania
+377,Disaster Event,Hail - South-East Queensland,1/24/2004 0:00,1/31/2004 0:00,-28.13527489,153.486557,,,3,1,28500000,,,,,,,,,,,,,,Queensland
+378,Disaster Event,Bushfire - Eyre Peninsula,1/10/2005 0:00,1/12/2005 0:00,-34.71579361,135.8571014,,,110,9,27700000,26,79,324,,,139,,,,,,46500,,South Australia
+379,Disaster Event,"Severe Storm - New South Wales, Victoria, Australian Capital Territory, Tasmania and South Australia",2/01/2005 0:00,2/03/2005 0:00,-33.71191788,150.9577332,,,,,216700000,,,,,,,13,14,,,,,,Australian Capital Territory;New South Wales;Victoria;South Australia
+380,Disaster Event,"Chemical - Hazardous Material Incident, Melbourne Airport",2/21/2005 0:00,2/21/2005 0:00,-37.6680603,144.8480377,2000,,47,,,,,,,,,,,,,,,,Victoria
+381,Disaster Event,Transport - Navy Helicopter Accident,4/02/2005 0:00,4/02/2005 0:00,0.744302988,97.71102905,,,2,9,,,,,,,,,,,,,,,Outside Australia
+382,Disaster Event,Transport - Ballan Train Collision and Derailment,11/15/2003 0:00,11/15/2003 0:00,-37.60375977,144.2118683,,,43,,,,,,,,,,,,,,,,Victoria
+383,Disaster Event,Complex Emergencies - Longford Gas Plant Accident and Victorian Gas Supply Crisis,9/25/1998 0:00,10/14/1998 0:00,-38.15885544,147.0897675,,,8,2,1300000000,,,,,,,,,,,,,,Victoria
+384,Disaster Event,Severe Storm - Sydney Feb 2002,2/16/2002 0:00,2/16/2002 0:00,-33.71273804,151.2968445,,,,,10000000,,,,,,,,,,,,,,New South Wales
+385,Disaster Event,Tsunami - Indian Ocean,12/26/2004 0:00,12/26/2004 0:00,0.615222991,88.85742188,,,,273636,,,,,,,,,,,,,,,Outside Australia
+386,Disaster Event,Cyclone Tracy,12/25/1974 0:00,12/25/1974 0:00,-12.46484184,130.837616,35362,41000,650,71,200000000,200,5000,,,,,20,25,,,,,,Northern Territory
+387,Disaster Event,Urban Fire - Melbourne Warehouse,11/12/2004 0:00,11/12/2004 0:00,-37.81154633,144.9627075,,,,,20000000,,,,,,,,,2,,,,,Victoria
+388,Disaster Event,"Transport - Bus Accident, Burnley Tunnel",9/17/2004 0:00,9/17/2004 0:00,-37.826192,144.997044,,,21,,,,,,,,,,,,,,,,Victoria
+389,Disaster Event,Transport - St Albans Train and Car Collision,8/05/2004 0:00,8/05/2004 0:00,-37.76031113,144.8117065,,,,3,,,,,,,,,,,,,,,Victoria
+390,Disaster Event,Transport - Sydney Bus Accident,4/03/2004 0:00,4/03/2004 0:00,-33.84752655,150.9477386,,,60,,,,,,,8,1,,,,,,,,New South Wales
+391,Disaster Event,"Severe Storm - South-East Queensland, Northern New South Wales, Northern Western Australia. Northern Territory",3/03/2004 0:00,3/31/2004 0:00,-28.80579758,153.2768707,,,,3,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Western Australia
+392,Disaster Event,Transport - Albury Bus Crash,5/02/2002 0:00,5/02/2002 0:00,-36.067972,146.853561,,,,4,,,,,,,,,,,,,,,New South Wales
+393,Disaster Event,Criminal Act - 9/11 Terrorist Attacks,9/11/2001 0:00,9/11/2001 0:00,40.72436523,-74.00390625,,,,2819,,,,,,,,,,,,,,,Outside Australia
+394,Disaster Event,Industrial - North Parkes Mine,11/24/1999 0:00,11/24/1999 0:00,-33.1243248,148.1760406,,,,4,,,,,,,,,,,,,,,New South Wales
+395,Disaster Event,Flood - Switzerland Gorge Flash Flood,7/27/1999 0:00,7/28/1999 0:00,46.68671799,7.867413044,,,,21,,,,,,,,,,,,,,,Outside Australia
+396,Disaster Event,Transport - Fiji Aircraft Crash,7/24/1999 0:00,7/24/1999 0:00,-18.0250988,178.1364441,,,,17,,,,,,,,,,,,,,,Outside Australia
+397,Disaster Event,Transport - Eastern Highlands Papua New Guinea Plane Crash,6/17/1999 0:00,6/17/1999 0:00,-6.048510075,145.3781738,,,,17,,,,,,,,,,,,,,,Outside Australia
+398,Disaster Event,Severe Storm - Bunbury and South Perth,5/16/2005 0:00,5/16/2005 0:00,-32.0274353,115.7822495,,,,,53200000,,,,,,,,,,,,,,Western Australia
+399,Disaster Event,Hail - Brisbane,5/19/2005 0:00,5/19/2005 0:00,-27.47093391,153.0234985,,,,,17600000,,,,,,,,,,,,,,Queensland
+400,Disaster Event,Transport - Mini Bus Accident on Jamberoo Mountain Road,9/05/2005 0:00,9/05/2005 0:00,-34.63250351,150.6929474,,,14,3,,,,,,,,,,,,,,,New South Wales
+401,Disaster Event,Criminal Act - London Transport Bombings,7/07/2005 0:00,7/07/2005 0:00,51.51436996,0.075649001,,,700,56,,,,,,,,,,,,,,,Outside Australia
+402,Disaster Event,Hail - Gold Coast,10/12/2005 0:00,10/12/2005 0:00,-27.92241287,153.3378754,,,,,61000000,,500,,,,2000,,,,,,,,Queensland
+403,Disaster Event,Criminal Act - Bali Bombings,10/01/2005 0:00,10/01/2005 0:00,-8.717467308,115.1772308,,,130,26,,,,,,,,,,,,,,,Outside Australia
+404,Disaster Event,Hail - Lake Grace,10/16/2005 0:00,10/16/2005 0:00,-33.10052109,118.4666214,,,,,10000000,,,,,,,,,,,,,,Western Australia
+405,Disaster Event,Bushfire - Blue Mountains and Sydney Region,11/30/1957 0:00,12/04/1957 0:00,-33.71252823,150.3315277,,,,4,,,158,,,,,,,,,,,,New South Wales
+406,Disaster Event,Transport - Perth Aircraft Crash,7/02/1949 0:00,7/02/1949 0:00,-31.93187714,115.9596176,,,,18,,,,,,,,,,,,,,,Western Australia
+407,Disaster Event,Industrial - Hunter Valley Silo Explosion,12/06/1999 0:00,12/06/1999 0:00,-32.71494293,151.5270386,,,1,3,,,,,,,,,,,,,,,New South Wales
+408,Disaster Event,Shipwreck - Rip,13/07/1873 00:00:00,13/07/1873 00:00:00,-38.33303833,144.6130371,,,,4,,,,,,,,1,,,,,,,Victoria
+409,Disaster Event,Cyclone - Cooktown,1/19/1907 0:00,1/19/1907 0:00,-15.46823978,145.254364,,,,9,,,,12,,,,,,,,,,,Queensland
+410,Disaster Event,Industrial - Box Flat Mine Ipswich,7/31/1972 0:00,7/31/1972 0:00,-27.57159042,152.762146,,,17,17,,,,,,,,,,,,,,,Queensland
+411,Disaster Event,"Environmental - Heatwave, Townsville",1/06/1994 0:00,1/10/1994 0:00,-19.25743103,146.8178558,,,,3,,,,,,,,,,,,,,,Queensland
+412,Disaster Event,Transport - Albury Coach and Truck Collision,8/13/1998 0:00,8/13/1998 0:00,-35.890163,147.169418,,,25,1,,,,,,,,,,,,,,,New South Wales
+413,Disaster Event,Shipwreck - Providence,09/11/1872 00:00:00,09/11/1872 00:00:00,-34.08792496,141.9152069,,,,5,,,,,,,,,1,,,,,,Victoria
+414,Disaster Event,Flood - Clermont and Peak Downs Dec 1916,12/27/1916 0:00,12/27/1916 0:00,-22.81669426,147.6480103,,,,61,,,,,,,,,,,,,,,Queensland
+415,Disaster Event,Severe Storm - Sydney Jan 1977,1/21/1977 0:00,1/21/1977 0:00,-33.80190277,150.9441681,,,,1,15000000,,,,,,,,,,,,,,New South Wales
+416,Disaster Event,Flood - Hunter Valley,2/22/1955 0:00,2/28/1955 0:00,-31.82798195,147.7187347,40000,15000,,24,,5200,58,,,,,,,,,,,,New South Wales
+417,Disaster Event,Shipwreck - Canmore,21/10/1854 00:00:00,21/10/1854 00:00:00,-32.92145538,151.8076172,,,2,7,,,,,,,,,,,,,,,New South Wales
+418,Disaster Event,Shipwreck - Lady Bird and Champion,24/08/1857 00:00:00,24/08/1857 00:00:00,-38.86056137,143.5439301,,,,32,,,,,,,,1,1,,,,,,Victoria
+419,Disaster Event,Shipwreck - Just Cruisin,7/06/2001 0:00,7/06/2001 0:00,-27.19967842,153.2517242,,,,4,,,,,,,,,1,,,,,,Queensland
+420,Disaster Event,Shipwreck - Fiji,06/01/1891 00:00:00,06/01/1891 00:00:00,-38.87767029,143.5267639,,,,12,,,,,,,,,1,,,,,,Victoria
+421,Disaster Event,Cyclone - Darwin,06/01/1897 00:00:00,07/01/1897 00:00:00,-12.45970917,130.8193665,,,,28,,,,,,,,,22,,,,,,Northern Territory
+422,Disaster Event,Shipwreck - Port Welshpool Ship Explosion,3/22/1969 0:00,3/22/1969 0:00,-38.70296097,146.4672394,,,20,3,,,,,,,,,,,,,,,Victoria
+423,Disaster Event,Transport - Copley Rail Collision,5/11/1944 0:00,5/11/1944 0:00,-30.55324364,138.4249878,,,27,4,,,,,,,,,,,,,,,South Australia
+424,Disaster Event,Severe Storm - Eastern New South Wales,11/18/2001 0:00,11/21/2001 0:00,-32.72064972,152.1438293,,,,3,30000000,2000,,,,200,,,,,,,,,New South Wales
+425,Disaster Event,Industrial - Queenstown Copper Mine Fire,10/12/1912 0:00,10/12/1912 0:00,-42.0750351,145.5578613,,,,42,,,,,,,,,,,,,,,Tasmania
+426,Disaster Event,Shipwreck - Shark Ace 4,5/12/1990 0:00,5/12/1990 0:00,-37.776956,149.486847,,,1,3,,,,,,,,,1,,,,,,Victoria
+427,Disaster Event,Bushfire - North-Western Regions,9/01/1984 0:00,2/01/1985 0:00,-31.49797058,145.8381958,,,,4,25000000,,,,,,,,,,,,40000,,New South Wales
+428,Disaster Event,Severe Storm - Sydney Apr 1998,4/09/1998 0:00,4/10/1998 0:00,-33.91579819,151.0357513,,,,1,10000000,80,,10,,,,,,5,,,,,New South Wales
+429,Disaster Event,Severe Storm - Orbost,1/24/1991 0:00,1/24/1991 0:00,-37.70148087,148.4568787,,,,,12000000,,,,,,,,,,,,,,Victoria
+430,Disaster Event,Shipwreck - Loch Ard,31/05/1878 00:00:00,31/05/1878 00:00:00,-38.65086365,143.0611267,,,2,49,,,,,,,,,1,,,,,,Victoria
+431,Disaster Event,Urban Fire - Sydney Hotel,12/25/1975 0:00,12/25/1975 0:00,-33.87397766,151.222168,,,22,15,,,,,1,,,,,,,,,,New South Wales
+432,Disaster Event,Shipwreck - Edward Lombe,25/08/1834 00:00:00,25/08/1834 00:00:00,-39.24076462,145.8654785,,,,12,,,,,,,,,1,,,,,,New South Wales
+433,Disaster Event,Cyclone - Coastal Queensland and New South Wales,1/16/1950 0:00,1/19/1950 0:00,-17.70944595,140.020752,100,,,7,,,,,,,,,,,,,,,New South Wales;Queensland
+434,Disaster Event,Cyclone Nancy,2/03/1990 0:00,2/07/1990 0:00,-28.63967705,153.6139374,,,,6,33000000,,,,,,,,,,,,,,Queensland
+435,Disaster Event,Urban Fire - Liverpool,1/15/1995 0:00,1/15/1995 0:00,-33.91928864,150.9240875,,,,8,,,,,1,,,,,,,,,,New South Wales
+436,Disaster Event,Transport - Redfern Train Collision,31/10/1894 00:00:00,31/10/1894 00:00:00,-33.89168549,151.1985626,,,27,14,,,,,,,,,,,,,,,New South Wales
+437,Disaster Event,Shipwreck - Ecliptic,30/03/1874 00:00:00,30/03/1874 00:00:00,-38.70828629,146.7038727,,,1,8,,,,,,,,,1,,,,,,Victoria
+438,Disaster Event,Industrial - Kalgoorlie Mine Collapse,6/26/2000 0:00,6/26/2000 0:00,-30.74659348,121.474884,,,8,3,,,,,,,,,,,,,,,Western Australia
+439,Disaster Event,Environmental - South-West Western Australia Drought,4/01/2000 0:00,8/22/2001 0:00,-21.93014717,114.1222,,,,,,,,,,,,,,,,,,,Western Australia
+440,Disaster Event,Shipwreck - HMAS Kuttabul,6/01/1942 0:00,6/01/1942 0:00,-33.85811996,151.2301178,,,10,21,,,,,,,,,1,,,,,,New South Wales
+441,Disaster Event,Transport - Essendon Air Ambulance Crash,9/03/1986 0:00,9/03/1986 0:00,-37.71876144,144.897049,,,,6,,,,,,,,,,,,,,,Victoria
+442,Disaster Event,Bushfire - Victoria,12/31/2005 0:00,1/31/2006 0:00,-37.0141716,142.7177734,,,6,4,22400000,,57,,359,,,,,,,,64265,,Victoria
+443,Disaster Event,Transport - Egypt Bus Crash,1/10/2006 0:00,1/10/2006 0:00,30.31243134,30.54748535,,,27,6,,,,,,,,,,,,,,,Outside Australia
+444,Disaster Event,Flood - Katherine and Daly River,01/02/1879 00:00:00,01/02/1879 00:00:00,-14.46360493,132.2644043,,,,6,,,,,,,,,,,,,,,Northern Territory
+445,Disaster Event,Cyclone - The Great Gold Coast Cyclone,2/20/1954 0:00,2/24/1954 0:00,-28.16656685,153.538147,,,,26,,,,,,,,22,,,,,,,Queensland;New South Wales
+446,Disaster Event,Severe Storm - Warwick,10/13/1998 0:00,10/13/1998 0:00,-33.91352081,150.9316711,,,,,23000000,12,,,,,,,,,,,,,Queensland
+447,Disaster Event,Shipwreck - Marie,19/09/1851 00:00:00,19/09/1851 00:00:00,-38.47509384,141.4517212,,,,25,,,,,,,,,1,,,,,,Victoria
+448,Disaster Event,Cyclone Larry,3/20/2006 0:00,3/20/2006 0:00,-17.51965332,146.0728455,,,30,,540000000,10000,,,,,,,,,,,,,Queensland
+449,Disaster Event,Industrial - Beaconsfield Mine,4/25/2006 0:00,5/09/2006 0:00,-41.19312286,146.8199158,,,2,1,,,,,,,,,,,,,,,Tasmania
+450,Disaster Event,Transport - Syndal Train Collision,11/20/1989 0:00,11/20/1989 0:00,-37.876291,145.149077,,,75,,,,,,,,,,,,,,,,Victoria
+451,Disaster Event,Tornado - Kin Kin,8/14/1971 0:00,8/14/1971 0:00,-27.47023964,153.0235443,,,,3,,,,,,,,,,,,,,,Queensland
+452,Disaster Event,Severe Storm - Sydney Feb 1992,2/12/1992 0:00,2/13/1992 0:00,-33.73226166,151.1278381,,,1,,118000000,3000,,,,7000,,,,,,,,,New South Wales
+453,Disaster Event,Chemical - Newcastle Toxic Fume Leak,3/30/2006 0:00,3/30/2006 0:00,-32.92597198,151.7758331,,,37,,,,,,,,,,,,,,,,New South Wales
+454,Disaster Event,Shipwreck - Naval Collision off Jervis Bay,2/10/1964 0:00,2/10/1964 0:00,-35.40248489,150.7159424,,,232,82,,,,,,,,,,,,,,,New South Wales
+455,Disaster Event,Transport - Sunshine Rail Collision,4/20/1908 0:00,4/20/1908 0:00,-37.78783417,144.8325806,,,413,44,,,,,,,,,,,,,,,Victoria
+456,Disaster Event,Urban Fire - Sydney Nursing Home,4/29/1981 0:00,4/29/1981 0:00,-33.86585236,151.0839844,,,51,16,,,,,1,,,,,,,,,,New South Wales
+457,Disaster Event,Urban Fire - Noble Park,1/01/1991 0:00,1/01/1991 0:00,-37.96565247,145.1743774,,,22,4,,,,,,,,,,,,,,,Victoria
+458,Disaster Event,Cyclone Alby,3/27/1978 0:00,4/04/1978 0:00,-20.31162643,118.5752563,,20,,5,13000000,,,,,,,,,,,,,,Western Australia
+459,Disaster Event,Industrial - South Bulli Coal Mine,7/24/1991 0:00,7/24/1991 0:00,-34.33273315,150.9136047,,,,3,,,,,,,,,,,,,,,New South Wales
+460,Disaster Event,Hail - Port Broughton,11/14/1979 0:00,11/14/1979 0:00,-33.60050201,137.9333191,,150,71,,10000000,,,,,,,,,,,,,,South Australia
+461,Disaster Event,Shipwreck - Bonnie Dundee and Barrabool Collision,10/03/1879 00:00:00,11/03/1879 00:00:00,-33.01327133,151.7850494,,,,5,,,,,,,,1,1,,,,,,New South Wales
+462,Disaster Event,Bushfire - Red Tuesday,01/02/1898 00:00:00,02/02/1898 00:00:00,-38.19710922,146.5346222,,2500,,12,,,,,2000,,,,,,,,,,Victoria
+463,Disaster Event,Transport - Capsized Ferry Rodney,2/13/1938 0:00,2/13/1938 0:00,-33.8511734,151.2096405,,,,19,,,,,,,,,1,,,,,,New South Wales
+464,Disaster Event,Urban Fire - Melbourne Hostel,8/13/1966 0:00,8/13/1966 0:00,-37.81154633,144.9627075,,,,30,,,,,1,,,,,,,,,,Victoria
+465,Disaster Event,Earthquake - Tennant Creek,1/22/1988 0:00,1/22/1988 0:00,-19.64363861,134.1915588,,,,,,,,,,,,,,,,,,,Northern Territory
+466,Disaster Event,Cyclone Broome,11/19/1910 0:00,11/19/1910 0:00,-17.95405579,122.2489929,,,,40,,70,20,,,,,67,34,,,,,,Western Australia
+467,Disaster Event,Shipwreck - Trial (Tryal),01/01/1753 00:00:00,01/01/1753 00:00:00,-20.47590828,115.5075073,,,,95,,,,,,,,,1,,,,,,Western Australia
+468,Disaster Event,Transport - Wodonga Train and Bus Collision,5/08/1943 0:00,5/08/1943 0:00,-36.099602,146.825495,,,,25,,,,,,,,,,,,,,,Victoria
+469,Disaster Event,Bushfire - Cootamundra and Deniliquin Regions,1/17/1987 0:00,1/20/1987 0:00,-34.63893127,148.0243835,,,20,3,,,,,,,,,,,,,,,New South Wales
+470,Disaster Event,Industrial - Creswick Gold Mine,12/12/1882 00:00:00,12/12/1882 00:00:00,-37.42157364,143.8936005,,,,22,,,,,,,,,,,,,,,Victoria
+471,Disaster Event,Hail - Brighton,12/16/1980 0:00,12/16/1980 0:00,-27.30474854,153.0626831,,,,,15000000,5000,,,,,,,,,,,,,Queensland
+472,Disaster Event,Hail - Armidale and Tamworth,9/29/1996 0:00,9/29/1996 0:00,-30.51434326,151.6669617,,,10,,104000000,,,5000,,4000,,,,,,,,,New South Wales
+473,Disaster Event,Transport - Port Hedland Aircraft Crash,12/31/1968 0:00,12/31/1968 0:00,-20.37782,118.633032,,,,26,,,,,,,,,,,,,,,Western Australia
+474,Disaster Event,Cyclone Leonta,3/09/1903 0:00,3/09/1903 0:00,-19.25200272,146.8206024,,,,10,,,,,2,,,,,,,,,,Queensland
+475,Disaster Event,"Shipwreck - Afric, Harriet, Leila, Opal",2/25/1915 0:00,2/25/1915 0:00,-12.47206974,130.838974,,,,9,,,,,,,,,4,,,,,,Northern Territory
+476,Disaster Event,"Bushfire - Sydney, Hunter, Pilliga",11/20/1997 0:00,12/20/1997 0:00,-30.34799194,148.890152,,,,4,,,10,,,,,,,,,,,,New South Wales
+477,Disaster Event,Shipwreck - Pandora,26/08/1791 00:00:00,26/08/1791 00:00:00,-11.47733307,144.0362549,,,91,35,,,,,,,,,1,,,,,,Queensland
+478,Disaster Event,Landslide - Adelaide Hills,1/31/1928 0:00,1/31/1928 0:00,-34.99681473,138.6215363,,,3,6,,,,,,,,,,,,,,,South Australia
+479,Disaster Event,Shipwreck - British Admiral,23/05/1874 00:00:00,23/05/1874 00:00:00,-39.95100403,143.8315125,,,9,79,,,,,,,,,1,,,,,,Victoria
+480,Disaster Event,Industrial - Broken Hill Mine Collapse,18/07/1895 00:00:00,18/07/1895 00:00:00,-31.90786934,141.4599609,,,1,9,,,,,,,,,,,,,,,New South Wales
+481,Disaster Event,Flood - North Queensland Feb 2009,1/31/2009 0:00,2/07/2009 0:00,-18.6511116,146.1546173,,,,1,19000000,3000,,,,,,,,,,,,,Queensland
+482,Disaster Event,"Bushfire - Black Saturday, Victoria 2009",2/07/2009 0:00,2/08/2009 0:00,-37.56237411,145.3191986,,,414,173,1070000000,,2029,,,,,,,,61,,,,Victoria
+483,Disaster Event,Environmental - South-Eastern Australia Heatwave 2009,1/27/2009 0:00,1/31/2009 0:00,-37.81310654,144.9633942,,,,374,,,,,,,,,,,,,,,South Australia;Victoria
+484,Disaster Event,Flood - Northern New South Wales May 2009,5/20/2009 0:00,5/23/2009 0:00,-28.64416122,153.612381,,,,1,48000000,,,,,,,,,,,,,,New South Wales
+486,Disaster Event,Criminal Act - Jakarta Bombing of Marriot and Ritz-Carlton Hotels,7/17/2009 0:00,7/17/2009 0:00,-6.226781845,106.8269806,,,53,9,,,,,,,,,,,,,,,Outside Australia
+487,Disaster Event,Epidemic - H1N1 Pandemic,5/09/2009 0:00,12/01/2010 0:00,-27.47092438,153.0235901,,,,191,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+488,Disaster Event,Earthquake - Sumatra,9/30/2009 0:00,9/30/2009 0:00,-1.076596975,100.4370117,,,1214,1117,,78604,135448,,485,,,,,,,,,,Outside Australia
+489,Disaster Event,"Tsunami - Samoa, American Samoa and Tonga",9/29/2009 0:00,9/29/2009 0:00,-14.74832344,172.2381592,,,,144,,,,,,,,,,,,,,,Outside Australia
+490,Disaster Event,Flood - Mid and North Coast,3/31/2009 0:00,4/02/2009 0:00,-30.29631233,153.1156769,,,,,37000000,,,,,,,,,,,,,,New South Wales
+491,Disaster Event,Severe Storm - South-East Queensland Nov 2008,11/16/2008 0:00,11/22/2008 0:00,-27.6130867,152.758194,,,,1,309000000,,,,,,,,,,,,,,Queensland
+492,Disaster Event,Chemical - Varanus Island Gas Explosion,6/03/2008 0:00,6/03/2008 0:00,-20.60193634,115.5761719,,,,,230000000,,,,,,,,,1,,,,,Western Australia
+493,Disaster Event,Severe Storm - Southern States Windstorms,4/02/2008 0:00,4/02/2008 0:00,-38.22995377,143.8007355,,,,2,65000000,,,,,,,,,,,,,,Tasmania;South Australia;Victoria
+494,Disaster Event,Flood - Mackay,2/14/2008 0:00,2/17/2008 0:00,-21.14058876,149.1856689,,,,,410000000,4000,,,,,,,,,,,,,Queensland
+495,Disaster Event,Flood - South-East Queensland Feb 2008,2/10/2008 0:00,2/18/2008 0:00,-27.99584007,152.6824951,,,,,410000000,4000,,,,,,,,,,,,,Queensland
+496,Disaster Event,Flood - North Coast New South Wales,1/04/2008 0:00,1/11/2008 0:00,-28.62035561,153.0040588,,,,,15000000,,,,,,,,,,,,,,New South Wales
+497,Disaster Event,Flood - Queensland Jan 2008,1/01/2008 0:00,1/31/2008 0:00,-27.47092438,153.0235443,,,,,70000000,,,,,,,,,,,,,,Queensland
+498,Disaster Event,Bushfire - Boorabbin National Park,12/28/2007 0:00,1/08/2008 0:00,-31.23159218,120.1804733,,,,3,,,,,,,,,,,,,,,Western Australia
+499,Disaster Event,Flood - South-East Queensland Dec 2007,12/27/2007 0:00,1/07/2008 0:00,-28.80575943,153.2768707,,,,,15000000,,,,,,,,,,,,,,Queensland
+500,Disaster Event,Hail - Sydney Dec 2007,12/09/2007 0:00,12/09/2007 0:00,-33.91594315,151.0356598,,,30,,415000000,,,,,,,,,,,,,,New South Wales
+501,Disaster Event,Flood - Queensland Nov 2010,11/30/2010 0:00,1/17/2011 0:00,-27.56394386,151.9540558,5900,,,33,2380000000,3600,,29000,,,,,,,,,,,Queensland
+502,Disaster Event,"Bushfire - Perth Hills, Western Australia 2011",2/05/2011 0:00,2/07/2011 0:00,-32.10860443,116.0691833,,,12,,35000000,39,72,,,,,,,,,,,,Western Australia
+503,Disaster Event,"Cyclone Yasi, Queensland, 2011",2/03/2011 0:00,2/03/2011 0:00,-17.85067558,146.1099243,,,,1,1412000000,1000,,,,,,,,,,,,,Queensland
+504,Disaster Event,Flood - Charleville,4/18/1990 0:00,4/21/1990 0:00,-26.39740562,146.2445068,2300,,60,6,30000000,500,,,,,,,,,,,,,Queensland
+505,Disaster Event,"Severe Storm - Melbourne, February 2011",2/04/2011 0:00,2/06/2011 0:00,-37.81795502,144.9536133,6000,,1,,418670000,,,20,,,,,,,,,,,Victoria
+506,Disaster Event,"Severe Storm - Melbourne, 2010",3/06/2010 0:00,3/07/2010 0:00,-37.81795502,144.9536133,,,,,1044000000,0,,0,,,,,,,,,,,Victoria
+507,Disaster Event,Flood - Victoria Jan 2011,1/12/2011 0:00,1/18/2011 0:00,-36.05048752,145.2052765,,,,1,126495000,,,,,,,,,,,,,,Victoria
+508,Disaster Event,Earthquake - Japan,3/11/2011 0:00,3/11/2011 0:00,38.26999283,140.8694458,200000,,5388,15467,,,,,,,,,,,,,,,Outside Australia
+509,Disaster Event,"Severe Storm - Perth, 2010",3/22/2010 0:00,3/22/2010 0:00,-31.90671539,115.8136139,100,,,,1053000000,,,,,,,,,,,,,,Western Australia
+510,Disaster Event,Flood - Queensland Feb 2010,2/28/2010 0:00,3/05/2010 0:00,-27.47092438,153.0235443,,,,,46700000,,,,,,,,,,,,,,Queensland
+511,Disaster Event,Flood - Townsville,1/10/1998 0:00,1/12/1998 0:00,-19.25686264,146.8180695,,,,1,71000000,,14,,,,,,7,,,,,,Queensland
+512,Disaster Event,Environmental - Eastern and Northern Australia Severe Drought,1/01/1991 0:00,10/01/1996 0:00,-27.56520081,151.9551697,,,,,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+513,Disaster Event,Flood - North Queensland Jan 2009,1/12/2009 0:00,2/14/2009 0:00,0,0,,,,,19000000,,,,,,,,,,,,,,Queensland
+514,Disaster Event,Flood - North-East New South Wales,6/29/2005 0:00,6/30/2005 0:00,-28.80650711,153.276947,3000,,,1,25000000,,,,,,,,,,,,,,New South Wales
+515,Disaster Event,Landslide - Somersby,6/08/2007 0:00,6/08/2007 0:00,-33.42005157,151.2840576,,,,5,,,,,,,,,,,,,,,New South Wales
+516,Disaster Event,Bushfire - Sydney,10/09/2002 0:00,10/09/2002 0:00,-34.06602859,151.0125427,,,,,25000000,11,10,,,,,,,,,,,,New South Wales
+517,Disaster Event,Industrial - Moura Mine 1994,8/07/1994 0:00,8/07/1994 0:00,-24.55961418,149.9702454,,,,11,,,,,,,,,,,,,,,Queensland
+518,Disaster Event,Bushfire - Sydney and Wollongong,11/03/1980 0:00,11/03/1980 0:00,-34.13113022,150.9933472,,,,5,,,,,,,1,,,,,,,,New South Wales
+519,Disaster Event,Flood - South-East Queensland Jun 2005,6/29/2005 0:00,6/30/2005 0:00,-19.25706673,146.8179474,,,,2,53900000,,,,,,,,,,,,,,Queensland
+520,Disaster Event,Severe Storm - Dubbo,1/06/2001 0:00,1/06/2001 0:00,-32.24010086,148.6098328,,,,,15000000,,,400,,150,,,,,,,,,New South Wales
+521,Disaster Event,Industrial - Bulli Mine,23/03/1887 00:00:00,23/03/1887 00:00:00,-34.42461014,150.8930969,,,,81,,,,,,,,,,,,,,,New South Wales
+522,Disaster Event,"Severe Storm - Grafton, Kingscliff and Lismore",1/16/2002 0:00,1/16/2002 0:00,-29.69006538,152.9331207,,,,,10000000,,,,,,,,,,,,,,New South Wales
+523,Disaster Event,Urban Fire - Ipswich Guesthouse,12/29/1990 0:00,12/29/1990 0:00,-27.61316109,152.7583313,,,,5,,,,,1,,,,,,,,,,Queensland
+524,Disaster Event,Transport - Boondall (Brisbane) Bus Crash,10/01/1994 0:00,10/01/1994 0:00,-27.35072708,153.0600586,,,38,12,,,,,,,,,,,,,,,Queensland
+525,Disaster Event,Transport - Murphy's Creek Train Collision,1/30/1913 0:00,1/30/1913 0:00,-27.45425606,152.0499573,,,,6,,,,,,,,,,,,,,,Queensland
+526,Disaster Event,Transport - Winton Aircraft Accident,9/22/1966 0:00,9/22/1966 0:00,-22.338644,143.070402,,,,24,,,,,,,,,,,,,,,Queensland
+527,Disaster Event,Industrial - Brilliant Mine,10/14/1904 0:00,10/14/1904 0:00,-20.06367111,146.2568665,,,,7,,,,,,,,,,,,,,,Queensland
+528,Disaster Event,Transport - Traveston Train Derailment,6/07/1925 0:00,6/07/1925 0:00,-26.32070923,152.7835388,,,53,10,,,,,,,,,,,,,,,Queensland
+529,Disaster Event,Transport - Lockhart River Aircraft Crash,5/07/2005 0:00,5/07/2005 0:00,-12.78505993,143.3065643,,,,15,,,,,,,,,,,,,,,Queensland
+530,Disaster Event,Transport - Bundaberg Tilt Train Derailment,11/15/2004 0:00,11/15/2004 0:00,-24.60862923,151.8471985,,,100,,,,,,,,,,,,,,,,Queensland
+531,Disaster Event,Transport - Bogantungan Railway Accident,2/26/1960 0:00,2/26/1960 0:00,-23.63571739,147.2937012,,,43,7,,,,,,,,,,,,,,,Queensland
+532,Disaster Event,Transport - Brisbane River Ferry Sinking,13/02/1896 00:00:00,13/02/1896 00:00:00,-27.47328568,153.0229797,,,,57,,,,,,,,,1,,,,,,Queensland
+533,Disaster Event,Transport - Coolangatta Aircraft Crash,3/10/1949 0:00,3/10/1949 0:00,-28.16490364,153.5157928,,,,21,,,,,,,,,,,,,,,Queensland
+534,Disaster Event,Transport - Gordonvale/Cairns Bus Crash,2/04/1987 0:00,2/04/1987 0:00,-17.10798073,145.7748413,,,30,8,,,,,,,1,,,,,,,,Queensland
+535,Disaster Event,Transport - Mt Emerald Jet Aircraft Crash,5/11/1990 0:00,5/11/1990 0:00,-17.20360947,145.4060364,,,,11,,,,,,,,,,,,,,,Queensland
+536,Disaster Event,Transport - Mt Tamborine Bus Crash,9/25/1990 0:00,9/25/1990 0:00,-27.97285652,153.2337646,,,38,11,,,,,,,1,,,,,,,,Queensland
+537,Disaster Event,Transport - Mackay Aircraft Crash,6/10/1960 0:00,6/10/1960 0:00,-21.18129158,149.1945038,,,,,,,,,,,,,,,,,,,Queensland
+538,Disaster Event,Transport - Tamaree Train Crash,10/18/1947 0:00,10/18/1947 0:00,-26.1312027,152.664505,,,15,6,,,,,,,,,,,,,,,Queensland
+539,Disaster Event,Transport - Wallumbilla Rail Collision,12/01/1956 0:00,12/01/1956 0:00,-26.58657074,149.1904449,,,10,5,,,,,,,,,,,,,,,Queensland
+540,Disaster Event,Transport - Black Hawk Aircraft Collision,6/12/1996 0:00,6/12/1996 0:00,-19.25670052,146.8177338,,,12,18,,,,,,,,,,,,,,,Queensland
+541,Disaster Event,Transport - Capricorn Helicopter Rescue Crash,7/24/2000 0:00,7/24/2000 0:00,-22.81171036,149.8910828,,,,5,,,,,,,,,,,,,,,Queensland
+542,Disaster Event,Bushfire - Narollah Station,11/14/1954 0:00,11/14/1954 0:00,-20.06302643,146.259613,,,,3,,,,,,,,,,,,,,,Queensland
+543,Disaster Event,Urban Fire - Brisbane Boarding House,8/18/2002 0:00,8/18/2002 0:00,-27.31918716,153.0713196,,,6,3,,,,,2,,,,,,2,,,,Queensland
+544,Disaster Event,Cyclone Tessi,4/02/2000 0:00,4/04/2000 0:00,-18.86470795,146.2994385,,,,,15000000,,,,,,,,,,,,,,Queensland
+545,Disaster Event,Cyclone Steve,2/27/2000 0:00,3/09/2000 0:00,-16.28831482,149.9652405,,,,1,11000000,,,,,,,,,,,,,,Queensland
+546,Disaster Event,Flood - Lismore,4/07/1988 0:00,4/12/1988 0:00,-28.80591011,153.2769165,,,,,25000000,,,,,,,,,,,,,,New South Wales
+547,Disaster Event,Severe Storm - Northern New South Wales,6/30/2005 0:00,6/30/2005 0:00,-28.1733017,153.542984,,,,1,25000000,,,,,,,,,,,,,,New South Wales
+548,Disaster Event,Severe Storm - Coffs Harbour,11/23/1996 0:00,11/23/1996 0:00,-30.29405403,153.1161194,,,,1,20000000,,,,,,,,,,,,,,New South Wales
+549,Disaster Event,Flood - North-Eastern Victoria,10/03/1993 0:00,10/04/1993 0:00,-36.5514946,145.9817047,,,,,12000000,,,500,,,,,,,,,,,Victoria
+550,Disaster Event,Urban Fire - Slacks Creek House Fire,8/24/2011 0:00,8/24/2011 0:00,-27.62787819,153.1193695,,,2,11,,,1,,,,2,,,,,,,,Queensland
+551,Disaster Event,Transport - Camp Mountain (Dayboro) Train Derailment,5/05/1947 0:00,5/05/1947 0:00,-27.37134743,152.8867645,,,38,16,,,,,,,,,,,,,,,Queensland
+552,Disaster Event,Cyclone Aivu,4/04/1989 0:00,4/20/1989 0:00,-19.64258766,147.590332,,,,3,26000000,,,,,,,,,,,,,,New South Wales;Queensland
+553,Disaster Event,Shipwreck - Echo,27/08/1840 00:00:00,27/08/1840 00:00:00,-43.05584335,148.0428314,,,,3,,,,,,,,,1,,,,,,Tasmania
+554,Disaster Event,Shipwreck - Yarra Yarra,20/09/1838 00:00:00,20/09/1838 00:00:00,-39.18968964,145.8654785,,,,18,,,,,,,,,1,,,,,,Tasmania
+555,Disaster Event,Shipwreck - Port Phillip Packet,17/05/1838 00:00:00,17/05/1838 00:00:00,-40.1872673,146.6125488,,,,6,,,,,,,,,1,,,,,,Tasmania
+556,Disaster Event,Shipwreck - Lady Franklin,27/04/1838 00:00:00,27/04/1838 00:00:00,-42.82764053,148.3703613,,,,15,,,,,,,,,1,,,,,,Tasmania
+557,Disaster Event,Shipwreck - Mars,05/05/1837 00:00:00,05/05/1837 00:00:00,-43.560491,147.321167,,,,4,,,,,,,,,,,,,,,Tasmania
+558,Disaster Event,Shipwreck - Enchantress,16/07/1835 00:00:00,16/07/1835 00:00:00,-43.43397522,147.3960114,,,,17,,,,,,,,,1,,,,,,Tasmania
+559,Disaster Event,Shipwreck - Neva,14/05/1835 00:00:00,14/05/1835 00:00:00,-39.75788116,143.8165283,,,,218,,,,,,,,,1,,,,,,Tasmania
+560,Disaster Event,Shipwreck - George III,12/04/1835 00:00:00,12/04/1835 00:00:00,-43.71355057,147.2717285,,,,133,,,,,,,,,1,,,,,,Tasmania
+561,Disaster Event,Shipwreck - Sally,30/06/1826 00:00:00,30/06/1826 00:00:00,-40.73633194,147.9515076,,,,13,,,,,,,,,1,,,,,,Tasmania
+562,Disaster Event,Shipwreck - Brahmin,21/05/1854 00:00:00,21/05/1854 00:00:00,-39.78954315,143.6531067,,,,17,,,,,,,,,1,,,,,,Tasmania
+563,Disaster Event,Shipwreck - Cataraqui,04/08/1845 00:00:00,04/08/1845 00:00:00,-39.85388565,143.6627197,,,,408,,,,,,,,,1,,,,,,Tasmania
+564,Disaster Event,Shipwreck - Edward,21/05/1842 00:00:00,21/05/1842 00:00:00,-41.064339,146.512985,,,,8,,,,,,,,,,,,,,,Tasmania
+565,Disaster Event,Shipwreck - Governor Phillip,27/10/1848 00:00:00,27/10/1848 00:00:00,-40.43597412,148.4953918,,,,16,,,,,,,,,,,,,,,Tasmania
+566,Disaster Event,Shipwreck - Fairy,08/09/1851 00:00:00,08/09/1851 00:00:00,-41.02653503,146.7416382,,,,3,,,,,,,,,1,,,,,,Tasmania
+567,Disaster Event,Shipwreck - Antares,19/02/1853 00:00:00,19/02/1853 00:00:00,-40.069664,147.5614929,,,,9,,,,,,,,,1,,,,,,Tasmania
+568,Disaster Event,Shipwreck - Rebecca,29/04/1853 00:00:00,29/04/1853 00:00:00,-41.05501938,144.6611023,,,,6,,,,,,,,,1,,,,,,Tasmania
+569,Disaster Event,"Severe Storm - Melbourne, September 2011",9/28/2011 0:00,9/29/2011 0:00,-37.81229401,144.9632263,,,,,,,,,,,,,,,,,,,Victoria
+570,Disaster Event,Shipwreck - Zephyr,13/07/1852 00:00:00,13/07/1852 00:00:00,-42.81026077,147.8921204,,,,8,,,,,,,,,1,,,,,,Tasmania
+571,Disaster Event,Shipwreck - Lioness,21/03/1854 00:00:00,21/03/1854 00:00:00,-40.56650162,148.1149292,,,,4,,,,,,,,,1,,,,,,Tasmania
+572,Disaster Event,Shipwreck - Dolphin,31/03/1854 00:00:00,31/03/1854 00:00:00,-43.77902603,146.9750977,,,,11,,,,,,,,,1,,,,,,Tasmania
+573,Disaster Event,Shipwreck - Maypo,28/05/1855 00:00:00,28/05/1855 00:00:00,-39.67337036,143.7670898,,,,4,,,,,,,,,,,,,,,Tasmania
+574,Disaster Event,Shipwreck - Creole,29/08/1863 00:00:00,29/08/1863 00:00:00,-40.74777603,148.1336365,,,,29,,,,,,,,,1,,,,,,Tasmania
+575,Disaster Event,Shipwreck - Farningham,11/07/1884 00:00:00,11/07/1884 00:00:00,-43.35014725,145.893631,,,,3,,,,,,,,,1,,,,,,Tasmania
+576,Disaster Event,Shipwreck - Tyne,04/12/1861 00:00:00,04/12/1861 00:00:00,-43.22169113,148.0153656,,,,4,,,,,,,,,1,,,,,,Tasmania
+577,Disaster Event,Shipwreck - Glimpse,28/08/1863 00:00:00,28/08/1863 00:00:00,-41.15726089,146.5471954,,,,5,,,,,,,,,1,,,,,,Tasmania
+578,Disaster Event,Shipwreck - Acacia,6/20/1904 0:00,6/20/1904 0:00,-43.66054535,146.2908478,,,,9,,,,,,,,,1,,,,,,Tasmania
+579,Disaster Event,Shipwreck - Brier Holme,11/05/1904 0:00,11/05/1904 0:00,-43.897892,145.6567383,,,,17,,,,,,,,,1,,,,,,Tasmania
+580,Disaster Event,Shipwreck - Annie Ward,15/11/1898 00:00:00,15/11/1898 00:00:00,-43.25670624,147.5697327,,,,3,,,,,,,,,1,,,,,,Tasmania
+581,Disaster Event,Shipwreck - Orion,5/06/1908 0:00,5/06/1908 0:00,-40.1872673,147.0959473,,,,27,,,,,,,,,1,,,,,,Tasmania
+582,Disaster Event,Shipwreck - Kawatiri,8/13/1907 0:00,8/13/1907 0:00,-42.20817566,145.211792,,,,6,,,,,,,,,1,,,,,,Tasmania
+583,Disaster Event,Shipwreck - Southern Cross,9/12/1920 0:00,9/12/1920 0:00,-39.70718765,144.2285156,,,,12,,,,,,,,,1,,,,,,Tasmania
+584,Disaster Event,Shipwreck - Alfhild,10/10/1907 0:00,10/10/1907 0:00,-43.36412811,145.8242798,,,,11,,,,,,,,,1,,,,,,Tasmania
+585,Disaster Event,Shipwreck - Great Expectations,1/04/1990 0:00,1/04/1990 0:00,-40.72228241,148.012619,,,,6,,,,,,,,,1,,,,,,Tasmania
+586,Disaster Event,Urban Fire - Quakers Hill Nursing Home,11/18/2011 0:00,11/18/2011 0:00,-33.87269592,151.2069855,,,32,10,,,,1,,,,,,,,,,,New South Wales
+587,Disaster Event,"Bushfire - Augusta and Margaret River, Western Australia 2011",11/23/2011 0:00,12/06/2011 0:00,-34.31492233,115.159256,,,,,53000000,,32,,13,,,,,,,,,,Western Australia
+588,Disaster Event,"Flood - Northern New South Wales, Moree",11/27/2011 0:00,12/04/2011 0:00,-29.46429825,149.8447876,,,,1,,,,,,,,,,,,,,,New South Wales
+589,Disaster Event,Shipwreck - Admiral Gifford,08/10/1834 00:00:00,08/10/1834 00:00:00,-31.42851639,152.9370728,,,,15,,,,,,,,,1,,,,,,New South Wales
+590,Disaster Event,Shipwreck - Fairwind,6/27/1950 0:00,6/27/1950 0:00,-30.93241501,153.0920715,,,,17,,,,,,,,,,,,,,,New South Wales
+591,Disaster Event,Bushfire - Southern Queensland,8/01/2011 0:00,10/31/2011 0:00,-25.48295021,151.2158203,,,,,,,,,,,,,,,,,,,Queensland
+592,Disaster Event,Bushfire - Mount Lofty Ranges,2/20/1980 0:00,2/20/1980 0:00,-35.00764465,138.7087402,,,,,13000000,,51,,1,,,,,,,,,,South Australia
+593,Disaster Event,"Shipwreck - SIEV 221, Rocky Point, Christmas Island",12/15/2010 0:00,12/15/2010 0:00,-10.42231274,105.6690369,,,2,50,,,,,,,,,1,,,,,,Outside Australia
+594,Disaster Event,"Severe Storm - Melbourne, December 2011",12/25/2011 0:00,12/26/2011 0:00,-37.71207047,145.1486206,,,,,728640000,,,,,,,,,,,,,,Victoria
+595,Disaster Event,"Complex Emergencies - Cyclone Grant, Katherine Floods, Train Derailment, Chemical Spill",12/25/2011 0:00,12/27/2011 0:00,-11.31848145,132.2575378,,,2,,,,,,,,,,,,,,,,Northern Territory
+596,Disaster Event,Shipwreck - Submarine l-124,1/20/1942 0:00,1/20/1942 0:00,-12.24339199,130.0341797,,,,75,,,,,,,,,1,,,,,,Northern Territory
+597,Disaster Event,Shipwreck - Macumba,8/06/1943 0:00,8/06/1943 0:00,-8.276726723,136.1425781,,,5,3,,,,,,,,,1,,,,,,Northern Territory
+598,Disaster Event,Shipwreck - Mandorah Queen,12/24/1974 0:00,12/24/1974 0:00,-12.1843338,130.2319336,,,,3,,,,,,,,,1,,,,,,Northern Territory
+599,Disaster Event,Shipwreck - Booya,12/24/1974 0:00,12/24/1974 0:00,-12.47588444,130.8510742,,,,5,,,,,,,,,1,,,,,,Northern Territory
+600,Disaster Event,Shipwreck - HMS Pelorus,25/11/1839 00:00:00,25/11/1839 00:00:00,-12.38108444,130.8186646,,,,12,,,,,,,,,1,,,,,,Northern Territory
+601,Disaster Event,Shipwreck - La Grange and Unidentified,12/01/1948 0:00,12/01/1948 0:00,-12.46406746,130.8306885,,,,12,,,,,,,,,2,,,,,,Northern Territory
+602,Disaster Event,Environmental - South Australia and Victoria Heatwave,12/30/2011 0:00,1/04/2012 0:00,-34.12544632,140.9765625,,,45,,,,,,,,,,,,,,,,South Australia
+603,Disaster Event,Complex Emergencies - Bondi's Black Sunday,2/06/1938 0:00,2/06/1938 0:00,-33.89019012,151.274231,,,95,5,,,,,,,,,,,,,,,New South Wales
+604,Disaster Event,Shipwreck - Greycliffe,11/03/1927 0:00,11/03/1927 0:00,-33.85609055,151.2471466,,,,40,,,,,,,,,1,,,,,,New South Wales
+605,Disaster Event,Shipwreck - Lacepede Island Pearling Fleet,3/26/1935 0:00,3/26/1935 0:00,-16.85974884,122.1707153,,,,141,,,,,,,,,,,,,,,Western Australia
+606,Disaster Event,Transport - Barossa Valley School Bus Crash,1/29/2001 0:00,1/29/2001 0:00,-34.472175,138.99662,,,26,1,,,,,,,,,,,,,,,South Australia
+607,Disaster Event,"Transport - Salisbury Train, Bus and Car Collision",10/24/2002 0:00,10/24/2002 0:00,-34.76373672,138.6423645,,,26,4,,,,,,,,,,,,,,,South Australia
+608,Disaster Event,Hail - Adelaide,1/22/1991 0:00,1/22/1991 0:00,-34.9287262,138.5999451,,,,,30000000,,,,,,,,,,,,,,South Australia
+609,Disaster Event,Flood - Murray River,6/08/1956 0:00,12/01/1956 0:00,-34.91437912,139.3115845,,,,,,,,,,,,,,,,,,,South Australia
+610,Disaster Event,Environmental - Heatwave Oodnadatta,12/31/1959 0:00,1/03/1960 0:00,-27.51801491,135.43396,,,18,13,,,,,,,,,,,,,,,South Australia
+612,Disaster Event,Flood - New South Wales - 2012,1/24/2012 0:00,3/13/2012 0:00,-30.29301643,153.1159363,,,,3,108212000,,,,,,,,,,,,,47247000,New South Wales
+613,Disaster Event,Flood - Queensland Jan 2012,1/24/2012 0:00,3/13/2012 0:00,-23.51173782,148.1609344,,,,2,124688000,,,,,,,,,,,,,11749000,Queensland
+614,Disaster Event,Shipwreck - Mineral Diamond,4/15/1991 0:00,4/15/1991 0:00,-31.653381,74.882813,,,,27,,,,,,,,,,,,,,,Western Australia
+615,Disaster Event,Flood - Victoria February 2012,2/26/2012 0:00,3/15/2012 0:00,-36.12789154,141.9927979,,,,,108212000,,,,,,,,,,,,,7773000,Victoria
+616,Disaster Event,Cyclone Herbie,5/21/1988 0:00,5/22/1988 0:00,-24.88456726,113.6291885,,,,,20000000,,,,,,,,,,,,,,Western Australia
+617,Disaster Event,Environmental - Heatwave Dec 1907,12/01/1907 0:00,2/28/1908 0:00,-27.47077179,153.0236359,,,,246,,,,,,,,,,,,,,,Northern Territory;Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Tasmania;Victoria
+618,Disaster Event,Environmental - Heatwave Dec 1895,01/12/1895 00:00:00,28/02/1896 00:00:00,-32.2499733,147.3815918,,,,431,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+619,Disaster Event,Environmental - Heatwave Dec 1913,12/01/1913 0:00,2/28/1914 0:00,-30.47708321,136.9116211,,,,122,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+620,Disaster Event,Environmental - Heatwave Dec 1920,12/01/1920 0:00,2/28/1921 0:00,-34.63772964,143.5528564,,,,147,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+621,Disaster Event,Environmental - Heatwave Dec 1938,12/01/1938 0:00,2/28/1939 0:00,-37.80978394,144.9536133,,,,438,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+622,Disaster Event,Environmental - Heatwave Dec 1939,12/01/1939 0:00,2/28/1940 0:00,-23.55391693,148.1561279,,,,112,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+623,Disaster Event,Environmental - Heatwave Dec 1959,12/01/1959 0:00,2/28/1960 0:00,-27.47103882,153.0231934,,,,98,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+624,Disaster Event,Environmental - Heatwave Dec 1972,12/01/1972 0:00,2/28/1973 0:00,-34.20612335,142.1361389,,,,99,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+625,Disaster Event,Environmental - Heatwave Dec 1926,12/01/1926 0:00,2/28/1927 0:00,-33.87330246,151.2070618,,,,130,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;South Australia;Western Australia;Northern Territory;Tasmania;Victoria
+626,Disaster Event,Transport - Rocky Ponds Train Derailment,6/30/1948 0:00,6/30/1948 0:00,-34.54486465,148.3677063,,,18,4,,,,,,,,,,,,,,,New South Wales
+627,Disaster Event,Bushfire - Canberra 2003,1/18/2003 0:00,1/19/2003 0:00,-35.34656525,149.035675,,,435,4,350000000,,488,,,,,,,,,,,,Australian Capital Territory
+628,Disaster Event,Transport - Papua New Guinea Plane Crash,8/11/2009 0:00,8/11/2009 0:00,-9.112944603,147.991333,,,,13,,,,,,,,,,,,,,,Outside Australia
+629,Disaster Event,"Earthquake - Christchurch, New Zealand",2/22/2011 0:00,2/22/2011 0:00,-43.52465439,172.6384735,,,6659,185,370000000,100000,3500,,,,,,,,,,,,Outside Australia
+2029,Disaster Event,Flood - Gippsland June 2012,6/04/2012 15:48,6/22/2012 15:48,-38.20797348,146.7443848,,,,,,,,,,,,,,,,,,,Victoria
+2118,Disaster Event,Severe Storm - Perth and Southern Western Australia,6/07/2012 15:13,6/13/2012 15:13,-31.95048714,115.8570099,,,,1,,,,,,,,,,,,,,,Western Australia
+2182,Disaster Event,"Shipwreck - SIEV 27, 2012",6/27/2012 15:02,6/27/2012 15:02,-10.32133675,105.610199,,,,4,,,,,,,,,1,,,,,,Outside Australia
+2184,Disaster Event,Shipwreck - SIEV 36,4/16/2009 0:00,4/16/2009 0:00,-11.6952734,125.9033203,,,24,5,,,,,,,,,1,,,,,,Outside Australia
+2185,Disaster Event,Shipwreck - SIEV X,10/19/2001 15:50,10/19/2001 15:50,-9.514079094,106.105957,,,45,353,,,,,,,,,1,,,,,,Outside Australia
+2186,Disaster Event,"Shipwreck - SIEV 21, 2012",6/21/2012 16:14,6/21/2012 16:14,-9.102096558,106.3037109,0,,110,100,,,,,,,,,,,,,,,Outside Australia
+2799,Disaster Event,Landslide - Gracetown,9/27/1996 14:50,9/27/1996 14:50,-33.85794449,114.9841995,,,3,9,,,,,,,,,,,,,,,Western Australia
+2954,Disaster Event,Transport - Tumut Ponds Bus Crash,9/01/1973 14:27,9/01/1973 14:27,-35.96446228,148.4091644,,,21,18,,,,,,,1,,,,,,,,New South Wales
+3098,Disaster Event,Transport - Scotland Bus Crash,9/08/2003 9:30,9/08/2003 9:30,58.36400604,-4.236773968,,,24,,,,,,,,,,,,,,,,Outside Australia
+3099,Disaster Event,"Transport - Aircraft Crash, Seven Mile Beach, Hobart",3/10/1946 9:42,3/10/1946 9:42,-42.85356903,147.5062256,,,,25,,,,,,,,,,,,,,,
+3100,Disaster Event,"Flood - Widespread New South Wales, Queensland",14/02/1863 14:43:12,23/02/1863 14:43:12,-31.08042908,152.8459167,,,,10,,,,,,,,,,,,,,,Queensland;New South Wales
+3121,Disaster Event,Shipwreck - Lialeeta,4/11/1925 11:52,4/11/1925 11:52,-38.10970688,140.7087708,,,,5,,,,,,,,,,,,,,,South Australia
+3126,Disaster Event,Industrial - Savage River Mine Fire,6/21/2006 14:11,6/21/2006 14:11,-41.34382629,145.2392578,,,,,,,,,,,,,,,,,,,Tasmania
+3133,Disaster Event,Shipwreck - Maitland,05/05/1898 15:37:48,05/05/1898 15:37:48,-33.48185349,151.4530487,,,,21,,,,,,,,,1,,,,,,New South Wales
+3159,Disaster Event,Bushfire - Mt Ku-ring-gai,6/08/2000 14:32,6/08/2000 14:32,-33.65177917,151.1330872,,,3,4,,,,,,,,,,,,,,,New South Wales
+3301,Disaster Event,"Flood - Warmun, Kimberley",3/10/2011 9:24,3/14/2011 9:24,-17.01690102,128.2159424,,,,,,,76,,,,,,,,,,,,Western Australia
+3315,Disaster Event,Environmental - The Big Dry,1/01/1996 13:39,4/01/2012 13:39,-28.61345863,148.8867188,,,,,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;Victoria;South Australia;Western Australia;Outside Australia;Northern Territory;Tasmania
+3413,Disaster Event,Bushfire - Dunalley - Jan 2013,1/03/2013 13:49,1/14/2013 13:49,-42.87797546,147.8100586,1000,,,1,87100000,,203,,212,,,,,,,,,7845400,Tasmania
+3415,Disaster Event,Epidemic - Listeria Outbreak,12/25/2012 13:34,2/12/2013 13:34,-33.84030151,151.2078094,,,26,3,,,,,,,,,,,,,,,Queensland;New South Wales;Australian Capital Territory;Victoria;South Australia;Western Australia;Northern Territory;Tasmania
+3437,Disaster Event,"Bushfire - Coonabarabran, New South Wales 2013",1/07/2013 14:41,1/20/2013 14:41,-31.28676605,149.2005157,,,1,,35000000,,51,,,,,,,,,,12000,1015600,New South Wales
+3487,Disaster Event,"Cyclone Oswald, Queensland & New South Wales, 2013",1/21/2013 9:49,1/29/2013 9:49,-24.86587906,152.3446655,9000,,,6,1098000000,,,,,,,,,,,,,153600000,Queensland;New South Wales
+3495,Disaster Event,Chemical - Coode Island,8/21/1991 11:36,8/22/1991 11:36,-37.81663132,144.916626,,,,,21300000,,,,,,,,,,,,,,Victoria
+3532,Disaster Event,Epidemic - Gastroenteritis Outbreak From Oysters,3/24/2013 10:45,3/29/2013 10:45,-42.89960861,147.8031921,,,180,,,,,,,,,,,,,,,,Tasmania
+3533,Disaster Event,Complex Emergencies - Wall Collapse Swanston Street,3/29/2013 11:41,3/29/2013 11:41,-37.80727386,144.9635773,,,,3,,,,,,,,,,,,,,,Victoria
+3575,Disaster Event,Tornado - Murray River Townships,3/21/2013 11:31,3/21/2013 11:31,-35.88181686,145.5750275,,,24,,,,,33,24,,,,,,,,,,New South Wales;Victoria
+3751,Disaster Event,Epidemic - Canberra Food Poisoning,5/12/2013 11:39,5/19/2013 11:39,-35.25020981,149.140564,,,140,,,,,,,,,,,,,,,,Australian Capital Territory
+4160,Disaster Event,Transport - Menzies Cabinet Aircraft Crash,8/13/1940 0:00,8/13/1940 0:00,-35.34761429,149.2296906,,,,10,,,,,,,,,,,,,,,Australian Capital Territory
+4162,Disaster Event,Transport - Canal Creek Aircraft Crash,12/19/1943 0:00,12/19/1943 0:00,-22.90400887,150.5044556,,,,31,,,,,,,,,,,,,,,Queensland
+4163,Disaster Event,Tornado - Bundaberg region,1/26/2013 0:00,1/26/2013 0:00,-24.8135376,152.4643097,0,,20,,,,,,,,,,,,,,,,Queensland
+4165,Disaster Event,Hail - Sydney Nov 1976,11/10/1976 0:00,11/10/1976 0:00,-33.86086655,151.0230408,,,10,,40000000,,,,,,,,,,,,,,New South Wales
+4166,Disaster Event,Flood - Gawler River 2005,11/08/2005 0:00,11/08/2005 0:00,-34.64535522,138.5066986,,,,,,,,,,,,,,,,,,,South Australia
+4212,Disaster Event,Envionmental - National Heatwave,12/27/2012 0:00,1/19/2013 0:00,-25.24469566,133.59375,,,240,,,,,,,,,,,,,,,,Queensland;New South Wales;Victoria;South Australia;Western Australia
+4364,Disaster Event,Transport - Laos Aircraft Crash,10/16/2013 0:00,10/16/2013 0:00,15.11235714,105.7991104,,,,49,,,,,,,,,,,,,,,Outside Australia
+4413,Disaster Event,Flood - Maitland,01/03/1893 11:13:49,01/03/1893 11:13:49,-32.7322731,151.5576782,,,,8,,,,,,,,,,,,,,,New South Wales
+4415,Disaster Event,Industrial - Balmain Colliery 1900,3/17/1900 11:28,3/17/1900 11:28,-33.85673141,151.1811676,,,,5,,,,,,,,,,,,,,,New South Wales
+4417,Disaster Event,Industrial - Balmain Colliery 1945,4/20/1945 11:57,4/20/1945 11:57,-33.85723114,151.1811829,,,2,3,,,,,,,,,,,,,,,New South Wales
+4470,Disaster Event,Environmental - Sydney Bushfire Pollution,10/22/2013 0:00,11/09/2013 0:00,-33.9127388,151.2414856,,,228,,,,,,,,,,,,,,,,New South Wales
+4534,Disaster Event,Shipwreck - John Ormerod,21/10/1861 00:00:00,21/10/1861 00:00:00,-38.0618782,140.6661987,,,,6,,,,,,,,,1,,,,,,South Australia
+4535,Disaster Event,Shipwreck - Postboy,15/12/1876 00:00:00,15/12/1876 00:00:00,-34.9715004,138.5121918,,,,6,,,,,,,,1,,,,,,,South Australia
+4658,Disaster Event,"Shipwreck - SIEV 794, Christmas Island, 2013",7/16/2013 0:00,7/16/2013 0:00,-10.40137768,105.3369141,,,0,4,,,,,,,,,,,,,,,Outside Australia
+4674,Disaster Event,Flood - Hughenden 1917,1/01/1917 0:00,1/06/1917 0:00,-20.82736778,144.2010498,,,,5,,,,,,,,,,,,,,,Queensland
+4781,Disaster Event,Bushfire - New South Wales 2013,10/13/2013 0:00,11/13/2013 0:00,-33.64834976,150.3664398,,,,2,183400000,,200,,,,,,,,,,,,New South Wales
+4790,Disaster Event,"Bushfire - Perth Hills, January 2014",1/11/2014 10:27,1/14/2014 10:27,-31.87464142,116.1416245,,,,1,15000000,,52,,,,,,,,,,,,Western Australia
+4929,Disaster Event,"Environmental – Drought, Queensland and New South Wales 2012",4/01/2012 11:50,2/19/2014 11:50,-27.29368973,149.4580078,,,,,,,,,,,,,,,,,,,Queensland;New South Wales
+4946,Disaster Event,"Bushfire - Grampians National Park, Victoria, 2014",1/15/2014 10:59,1/21/2014 10:59,-37.12911987,142.5196228,,,,,,,,,30,,,,,,,,7000,,Victoria
+4960,Disaster Event,"Environmental - Heatwave, South-Eastern Australia, 2014",1/11/2014 0:00,1/21/2014 0:00,-33.28461838,140.9765625,,,0,,,,,,,,,,,,,,80,,Queensland;New South Wales;Victoria;South Australia;Western Australia;Tasmania
+5013,Disaster Event,"Flood - Gascoyne River, Western Australia, 2010",12/16/2010 0:00,12/20/2010 0:00,-24.83908844,113.7496948,,,,,,,,,,,,,,,,,2000,,Queensland
+5015,Disaster Event,"Bushfire - Victoria, 2014",2/09/2014 11:23,2/14/2014 11:23,-37.56471634,144.8931885,,,3,,,29,40,,,,,,,,,,10600,,Victoria
+5041,Disaster Event,"Complex Emergencies - Hazelwood open cut mine fire, Morwell, Victoria 2014",2/09/2014 0:00,3/19/2014 0:00,-38.23251724,146.3935089,0,,0,,,,,,,,,,,,,,,,Victoria
+5044,Disaster Event,"Transport - Aircraft crash, Caboolture, Queensland 2014",3/22/2014 0:00,3/22/2014 0:00,-27.03710938,152.9489136,,,,5,,,,,,,,,,,,,,,Queensland
