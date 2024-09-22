@@ -4,8 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week 9 Homework</title>
-</head>
-<body>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
     
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1> Week 9 Homework Vega-Lite Map: Natural Disasters in Australia </h1>
+
+    <div id="vegalitemap"></div>
+    
+    <script type="text/javascript">
+        var vg_1 = "visualization.vg.json";
+        vegaEmbed("#vegalitemap", vg_1).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+    </script>
 </body>
 </html>
