@@ -53,7 +53,7 @@
             <div> Graph</div>
         </div>
         <div>
-            big viz
+            <div id="vegalitestackedbar">
         </div>
         <div>
             big viz
@@ -73,6 +73,11 @@
 
         var vg_2 = "js/ringchart.vg.json";
         vegaEmbed("#vegalitering", vg_2).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+
+        var vg_3 = "js/stackedbarovertime.json";
+        vegaEmbed("#vegalitestackedbar", vg_3).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>
