@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     background-color: #c6d4ae;
-    margin-inline: 6%;
+    margin-inline: 12%;
 }
 
 .header {
@@ -21,6 +21,13 @@
 .map{
     justify-content: center;
     align-self: center;
+}
+
+.split {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .bold {

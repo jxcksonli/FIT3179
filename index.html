@@ -43,8 +43,21 @@
             </p>
         </div>
 
-        <div id="vegalitemap" class="map">test</div>
-
+        <div id="vegalitemap" class="map"></div>
+        <div class="split">
+            <div id="vegalitering"></div>
+            <div> Text here </div>
+        </div>
+        <div class="split">
+            <div>Text here </div>
+            <div> Graph</div>
+        </div>
+        <div>
+            big viz
+        </div>
+        <div>
+            big viz
+        </div>
     </div>
 
     <footer class="footer manrope-font">
@@ -53,8 +66,13 @@
     </footer>
 
     <script type="text/javascript">
-        var vg_1 = "js/visualization.vg.json";
+        var vg_1 = "js/propsymbolmap.vg.json";
         vegaEmbed("#vegalitemap", vg_1).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+
+        var vg_2 = "js/ringchart.vg.json";
+        vegaEmbed("#vegalitering", vg_2).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>

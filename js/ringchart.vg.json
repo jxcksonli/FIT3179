@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "width": 200,
+  "height": 200,
+  "title": {"text": "Common natural disasters in Australia", "frame": "group"},
+  "style": "view",
+  "data": [
+    {
+      "name": "source_0",
+      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/naturaldisasterscleaned.csv",
+      "format": {"type": "csv", "delimiter": ","},
+      "transform": [
+        {
+          "type": "aggregate",
+          "groupby": ["disasterType"],
+          "ops": ["count"],
+          "fields": [null],
+          "as": ["count"]
+        },
+        {
+          "type": "stack",
+          "groupby": [],
+          "field": "count",
+          "sort": {"field": ["disasterType"], "order": ["ascending"]},
+          "as": ["count_start", "count_end"],
+          "offset": "zero"
+        },
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"count\"]) && isFinite(+datum[\"count\"])"
+        }
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "name": "marks",
+      "type": "arc",
+      "style": ["arc"],
+      "from": {"data": "source_0"},
+      "encode": {
+        "update": {
+          "innerRadius": {"value": 60},
+          "fill": {"scale": "color", "field": "disasterType"},
+          "tooltip": {
+            "signal": "{\"Disaster Type: \": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Count: \": isValid(datum[\"count\"]) ? datum[\"count\"] : \"\"+datum[\"count\"]}"
+          },
+          "description": {
+            "signal": "\"count: \" + (format(datum[\"count\"], \"\")) + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Disaster Type: : \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Count: : \" + (isValid(datum[\"count\"]) ? datum[\"count\"] : \"\"+datum[\"count\"])"
+          },
+          "x": {"signal": "width", "mult": 0.5},
+          "y": {"signal": "height", "mult": 0.5},
+          "outerRadius": {"signal": "min(width,height)/2"},
+          "startAngle": {"scale": "theta", "field": "count_end"},
+          "endAngle": {"scale": "theta", "field": "count_start"}
+        }
+      }
+    }
+  ],
+  "scales": [
+    {
+      "name": "theta",
+      "type": "linear",
+      "domain": {"data": "source_0", "fields": ["count_start", "count_end"]},
+      "range": [0, 6.283185307179586],
+      "zero": true
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": [
+        "Bushfire ",
+        "Environmental",
+        "Epidemic ",
+        "Extreme Weather",
+        "Industrial ",
+        "Other ",
+        "Shipwreck ",
+        "Transport ",
+        "Urban Fire "
+      ],
+      "range": [
+        "#B22222",
+        "#228B22",
+        "#FFD700",
+        "#800080",
+        "#FF8C00",
+        "#D3D3D3",
+        "#4682B4",
+        "#FF6347",
+        "#C71585"
+      ]
+    }
+  ],
+  "legends": [
+    {"title": "Disaster Type", "fill": "color", "symbolType": "circle"}
+  ],
+  "config": {}
+}
