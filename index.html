@@ -24,11 +24,40 @@
         <div>
             <h1 class="manrope-header header"> Natural Disasters in Australia </h1>
         </div> 
+        <div class = "bg-info manrope-font">
+            <p class="half-size">        <span class="bold">Natural disasters</span> are destructive events caused by Earth’s natural processes, like 
+                <span class="bold">bushfires, floods, and cyclones</span>. 
+                In <span class="bold">Australia</span>, 
+                <span class="bold" style="color: red;">climate change</span> intensifies these events, with longer fire seasons, droughts, and rising temperatures. 
+                <span class="bold">Communities</span> and ecosystems face growing risks, demanding urgent 
+                <span class="bold" style="color: red;">action</span> and 
+                <span class="bold">preparedness</span>.
+            </p>
+            <p class="half-size">
+                The map illustrates the distribution of <span class="bold">natural disasters</span> in <span class="bold">Australia</span> by type. 
+                <span class="bold">Bushfires</span> are notably concentrated in <span class="bold">Victoria</span>, especially in the southeast, 
+                with larger circles indicating higher <span class="bold" style="color: red;">death tolls</span>. 
+                <span class="bold">Environmental disasters</span> are prevalent in inland areas, while <span class="bold">extreme weather events</span> 
+                are common along the coast. Additionally, the map highlights the varied impacts of <span class="bold">epidemics</span> 
+                and <span class="bold">transport incidents</span>, represented by circle sizes reflecting different <span class="bold" style="color: red;">death tolls</span>.
+            </p>
+        </div>
+
+        <div id="vegalitemap">test</div>
+
     </div>
 
     <footer class="footer manrope-font">
         <p>Jackson Li, 2024</p>
         <p> Data Source: <a href="https://www.data.gov.au/data/dataset/disaster-events-with-category-impact-and-location " target="_blank"> Data.gov.au </a> </p>
     </footer>
+
+    <script type="text/javascript">
+        var vg_1 = "js/visualization.vg.json";
+        vegaEmbed("#vegalitemap", vg_1).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+    </script>
 </body>
+
 </html>
