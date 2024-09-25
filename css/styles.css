@@ -7,7 +7,7 @@
 
 .header {
     text-align: center;
-    font-weight: 900;
+    font-size: 52px;
 
 }
 
@@ -18,12 +18,17 @@
     align-items: center;
 }
 
+.map{
+    justify-content: center;
+    align-self: center;
+}
+
 .bold {
     font-weight: 600;
 }
 
 .half-size {
-    width: 44%;
+    width: 47%;
 }
 
 .footer {
