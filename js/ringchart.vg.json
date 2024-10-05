@@ -5,11 +5,11 @@
   "width": 200,
   "height": 200,
   "title": {
-    "text": "Common natural disasters in Australia", 
+    "text": "Common Natural Disasters in Australia", 
     "color": "black",
-    "fontSize": 20,
-    "frame": "group"},
-  "style": "view",
+    "fontSize": 24,
+    "style": "view"
+  },
   "data": [
     {
       "name": "source_0",
@@ -22,6 +22,17 @@
           "ops": ["count"],
           "fields": [null],
           "as": ["count"]
+        },        
+        {
+          "type": "joinaggregate",
+          "ops": ["sum"],
+          "fields": ["count"],
+          "as": ["total"]
+        },
+        {
+          "type": "formula",
+          "expr": "datum.count / datum.total * 100",
+          "as": "percentage"
         },
         {
           "type": "stack",
@@ -49,10 +60,10 @@
           "innerRadius": {"value": 60},
           "fill": {"scale": "color", "field": "disasterType"},
           "tooltip": {
-            "signal": "{\"Disaster Type: \": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Count: \": isValid(datum[\"count\"]) ? datum[\"count\"] : \"\"+datum[\"count\"]}"
+            "signal": "{\"Disaster Type: \": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Percentage: \": format(datum[\"percentage\"], \"d\") + '%'}"
           },
           "description": {
-            "signal": "\"count: \" + (format(datum[\"count\"], \"\")) + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Disaster Type: : \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Count: : \" + (isValid(datum[\"count\"]) ? datum[\"count\"] : \"\"+datum[\"count\"])"
+            "signal": "\"Percentage: \" + format(datum[\"percentage\"], \"d\") + '%' + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"])"
           },
           "x": {"signal": "width", "mult": 0.5},
           "y": {"signal": "height", "mult": 0.5},
