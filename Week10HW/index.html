@@ -13,12 +13,17 @@
 
 <body>
     <h1> Week 10 Homework Interactive Vega-Lite Map</h1>
-
+    <div id="vegalitestackedbar"></div>
     <div id="vegalitemap"></div>
     
     <script type="text/javascript">
         var vg_1 = "map.vg.json";
         vegaEmbed("#vegalitemap", vg_1).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+
+        var vg_2 = "interactivestackedbar.vg.json";
+        vegaEmbed("#vegalitestackedbar", vg_2).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>
