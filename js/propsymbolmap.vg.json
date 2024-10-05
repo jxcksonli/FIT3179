@@ -5,7 +5,7 @@
   "width": 800,
   "height": 400,
   "title": {
-    "text": "Natural Disasters Over Time: Death Toll in Australia",
+    "text": "Natural Disasters: Death Toll in Australia",
     "color": "black",
     "fontSize": 30,
     "frame": "group"
@@ -22,7 +22,7 @@
     },
     {
       "name": "source_1",
-      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/naturaldisasterscleaned.csv",
+      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
       "format": {"type": "csv", "delimiter": ","},
       "transform": [
         {
@@ -75,7 +75,7 @@
           "opacity": {"value": 0.7},
           "fill": {"scale": "color", "field": "disasterType"},
           "tooltip": {
-            "signal": "{\"Disaster Type: \": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Deaths: \": format(datum[\"Deaths\"], \"\")}"
+             "signal": "datum[\"disasterType\"] ? {\"Disaster Type\": datum[\"disasterType\"], \"Deaths\": format(datum[\"Deaths\"], \"\")} : {\"Deaths\": format(datum[\"Deaths\"], \"\")}"
           },
           "ariaRoleDescription": {"value": "circle"},
           "description": {
@@ -94,26 +94,22 @@
       "name": "color",
       "type": "ordinal",
       "domain": [
-        "Bushfire ",
+        "Fire Incidents ",
         "Environmental",
         "Epidemic ",
         "Extreme Weather",
-        "Industrial ",
         "Other ",
         "Shipwreck ",
-        "Transport ",
-        "Urban Fire "
+        "Transport "
       ],
       "range": [
         "#B22222",
         "#228B22",
         "#FFD700",
         "#800080",
-        "#FF8C00",
-        "#D3D3D3",
+        "#FFA500",
         "#4682B4",
-        "#FF6347",
-        "#C71585"
+        "#FFC0CB"
       ]
     },
     {

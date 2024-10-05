@@ -1,15 +1,19 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "background": "white",
+  "background": "transparent",
   "padding": 5,
   "width": 200,
   "height": 200,
-  "title": {"text": "Common natural disasters in Australia", "frame": "group"},
+  "title": {
+    "text": "Common natural disasters in Australia", 
+    "color": "black",
+    "fontSize": 20,
+    "frame": "group"},
   "style": "view",
   "data": [
     {
       "name": "source_0",
-      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/naturaldisasterscleaned.csv",
+      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
       "format": {"type": "csv", "delimiter": ","},
       "transform": [
         {
@@ -71,26 +75,22 @@
       "name": "color",
       "type": "ordinal",
       "domain": [
-        "Bushfire ",
+        "Fire Incidents ",
         "Environmental",
         "Epidemic ",
         "Extreme Weather",
-        "Industrial ",
         "Other ",
         "Shipwreck ",
-        "Transport ",
-        "Urban Fire "
+        "Transport "
       ],
       "range": [
         "#B22222",
         "#228B22",
         "#FFD700",
         "#800080",
-        "#FF8C00",
-        "#D3D3D3",
+        "#FFA500",
         "#4682B4",
-        "#FF6347",
-        "#C71585"
+        "#FFC0CB"
       ]
     }
   ],

@@ -15,7 +15,10 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+}
+
+.freespace{
+    height: 3vh;
 }
 
 .map{
@@ -27,7 +30,6 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
 }
 
 .bold {
@@ -35,7 +37,8 @@
 }
 
 .half-size {
-    width: 47%;
+    width: 45%;
+    align-self: center;
 }
 
 .footer {
@@ -55,6 +58,6 @@
 .manrope-font {
     font-family: "Manrope", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
   }
