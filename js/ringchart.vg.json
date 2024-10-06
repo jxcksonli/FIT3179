@@ -5,7 +5,7 @@
   "width": 200,
   "height": 200,
   "title": {
-    "text": "Common Natural Disasters in Australia", 
+    "text": "Proportion of Natural Disaster Types in Australia", 
     "color": "black",
     "fontSize": 24,
     "style": "view"
@@ -60,7 +60,7 @@
           "innerRadius": {"value": 60},
           "fill": {"scale": "color", "field": "disasterType"},
           "tooltip": {
-            "signal": "{\"Disaster Type: \": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Percentage: \": format(datum[\"percentage\"], \"d\") + '%'}"
+           "signal": "{\"Disaster Type\": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Percentage\": format(datum[\"percentage\"], \"d\") + '%'}"
           },
           "description": {
             "signal": "\"Percentage: \" + format(datum[\"percentage\"], \"d\") + '%' + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"])"
