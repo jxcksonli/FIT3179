@@ -4,7 +4,10 @@
   "padding": 5,
   "width": 800,
   "title": {
-    "text": "Stacked Bar Chart of Natural Disasters in Australia Over Time with Total Line (1890-2020)",
+    "text": "Natural Disasters in Australia Over Time (1890-2020): Stacked Bar Chart",
+    "color": "black",
+    "fontSize": 24,
+    "style": "view",
     "anchor": "start"
   },
   "data": [
