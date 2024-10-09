@@ -35,8 +35,8 @@
         <div class="freespace"></div>
         <div id="vegalitemap" class="center"></div>
         <div style="text-align: center;" class="manrope-font"> 
-        <p><span class="bold">Others</span> includes occurrences such as Criminal Acts (10), Tornadoes (4), Landslides (4), Earthquakes (9), Chemical Incidents (11), Complex Emergencies (12), and Industrial Accidents (38)</p>
-        <p><span class="bold">Extreme Weather</span> combines Floods (87), Hail (21), Cyclones (42), and Severe Storms (60)</p>    
+            <p><span class="bold">Others</span> includes occurrences such as Criminal Acts (10), Tornadoes (4), Landslides (4), Earthquakes (9), Chemical Incidents (11), Complex Emergencies (12), and Industrial Accidents (38)</p>
+            <p><span class="bold">Extreme Weather</span> combines Floods (87), Hail (21), Cyclones (42), and Severe Storms (60)</p>    
         </div>
         <div class="freespace"></div>
         <div class="split">
@@ -49,8 +49,11 @@
         </div>
         <div class="freespace"></div>
         <div class="split">
-            <div class="half-size manrope-font">Text here </div>
-            <div class="half-size"> Graph</div>
+            <div class="half-size manrope-font">
+                <p>In this section, we will compare the total deaths and injuries caused by various disaster types, excluding epidemics due to their larger scale, which significantly impacts the readability of the charts. The two visualizations present notable contrasts that provide insights into the severity of different natural disasters.</p>            
+                <p>These insights shed light on the varying impacts of different types of disasters, contributing to a deeper understanding of their consequences.</p>
+            </div>
+            <div class="half-size" id="vegalitelollipop"></div>
         </div>
         <div class="freespace"></div>
         <div id="vegalitestackedbar" class="center"></div>
@@ -58,9 +61,6 @@
             <p>
                 The chart above shows a significant increase in <span class="bold">Extreme Weather</span> incidents over time, particularly from the 1980s onward, likely reflecting the impact of climate change.
             </p>
-        </div>
-        <div>
-            big viz
         </div>
         <footer class="footer manrope-font">
             <p>Jackson Li, 2024</p>
@@ -81,6 +81,11 @@
 
         var vg_3 = "js/stackedbarovertime.json";
         vegaEmbed("#vegalitestackedbar", vg_3).then(function(result) {
+        // Access the Vega view instance
+        }).catch(console.error);
+
+        var vg_4 = "js/lollipopchart.vg.json";
+        vegaEmbed("#vegalitelollipop", vg_4).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>
