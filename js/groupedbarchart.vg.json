@@ -1,0 +1,65 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "width": 400,
+  "title": {
+    "text": "Total Deaths and Injuries by Disaster Type",
+    "fontSize": 20,
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv"
+  },
+  "transform": [
+    {
+      "filter": "indexof(['Fire Incidents ','Environmental','Extreme Weather','Other ','Shipwreck ','Transport '], datum['disasterType']) !== -1"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Deaths",
+          "as": "total_deaths"
+        },
+        {
+          "op": "sum",
+          "field": "Injuries",
+          "as": "total_injuries"
+        }
+      ],
+      "groupby": ["disasterType"]
+    },
+    {
+      "fold": ["total_deaths", "total_injuries"],
+      "as": ["category", "value"]
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "disasterType",
+      "type": "nominal",
+      "title": "Disaster Type",
+      "axis": {"labelAngle": -45}
+    },
+    "y": {"field": "value", "type": "quantitative", "title": "Count"},
+    "xOffset": {"field": "category"},
+    "color": {
+      "field": "category",
+      "type": "nominal",
+      "scale": {
+        "domain": ["total_deaths", "total_injuries"],
+        "range": ["black", "red"]
+      },
+      "title": "Category",
+      "legend": {
+        "title": "Category",
+        "labelExpr": "datum.label == 'total_deaths' ? 'Total Deaths' : 'Total Injuries'"
+      }
+    },
+    "tooltip": [
+      {"field": "disasterType", "title": "Disaster Type"},
+      {"field": "value", "title": "Count"}
+    ]
+  }
+}

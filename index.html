@@ -50,10 +50,10 @@
         <div class="freespace"></div>
         <div class="split">
             <div class="half-size manrope-font">
-                <p>In this section, we will compare the total deaths and injuries caused by various disaster types, excluding epidemics due to their larger scale, which significantly impacts the readability of the charts. The two visualizations present notable contrasts that provide insights into the severity of different natural disasters.</p>            
+                <p>In this section, we will compare the total deaths and injuries caused by various disaster types, excluding epidemics due to their larger scale, which significantly impacts the readability of the charts. The grouped bar chart present notable contrasts that provide insights into the severity of different natural disasters.</p>            
                 <p>These insights shed light on the varying impacts of different types of disasters, contributing to a deeper understanding of their consequences.</p>
             </div>
-            <div class="half-size" id="vegalitelollipop"></div>
+            <div class="half-size" id="vegalitegroupedbarchart"></div>
         </div>
         <div class="freespace"></div>
         <div id="vegalitestackedbar" class="center"></div>
@@ -84,8 +84,8 @@
         // Access the Vega view instance
         }).catch(console.error);
 
-        var vg_4 = "js/lollipopchart.vg.json";
-        vegaEmbed("#vegalitelollipop", vg_4).then(function(result) {
+        var vg_4 = "js/groupedbarchart.vg.json";
+        vegaEmbed("#vegalitegroupedbarchart", vg_4).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>
