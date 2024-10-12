@@ -21,6 +21,7 @@
       "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
       "format": { "type": "csv" },
       "transform": [
+        { "type": "filter", "expr": "datum.Deaths > 0" },
         {
           "type": "geopoint",
           "projection": "projection",
