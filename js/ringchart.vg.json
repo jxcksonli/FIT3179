@@ -1,5 +1,5 @@
 {
-  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "transparent",
   "padding": 5,
   "width": 200,
@@ -7,106 +7,66 @@
   "title": {
     "text": "Proportion of Natural Disaster Types in Australia", 
     "color": "black",
-    "fontSize": 24,
-    "style": "view"
+    "fontSize": 22
   },
-  "data": [
+  "data": {
+    "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
     {
-      "name": "source_0",
-      "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
-      "format": {"type": "csv", "delimiter": ","},
-      "transform": [
-        {
-          "type": "aggregate",
-          "groupby": ["disasterType"],
-          "ops": ["count"],
-          "fields": [null],
-          "as": ["count"]
-        },        
-        {
-          "type": "joinaggregate",
-          "ops": ["sum"],
-          "fields": ["count"],
-          "as": ["total"]
-        },
-        {
-          "type": "formula",
-          "expr": "datum.count / datum.total * 100",
-          "as": "percentage"
-        },
-        {
-          "type": "stack",
-          "groupby": [],
-          "field": "count",
-          "sort": {"field": ["disasterType"], "order": ["ascending"]},
-          "as": ["count_start", "count_end"],
-          "offset": "zero"
-        },
-        {
-          "type": "filter",
-          "expr": "isValid(datum[\"count\"]) && isFinite(+datum[\"count\"])"
-        }
-      ]
-    }
-  ],
-  "marks": [
-    {
-      "name": "marks",
-      "type": "arc",
-      "style": ["arc"],
-      "from": {"data": "source_0"},
-      "encode": {
-        "update": {
-          "innerRadius": {"value": 60},
-          "fill": {"scale": "color", "field": "disasterType"},
-          "tooltip": {
-           "signal": "{\"Disaster Type\": isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"], \"Percentage\": format(datum[\"percentage\"], \"d\") + '%'}"
-          },
-          "description": {
-            "signal": "\"Percentage: \" + format(datum[\"percentage\"], \"d\") + '%' + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"])"
-          },
-          "x": {"signal": "width", "mult": 0.5},
-          "y": {"signal": "height", "mult": 0.5},
-          "outerRadius": {"signal": "min(width,height)/2"},
-          "startAngle": {"scale": "theta", "field": "count_end"},
-          "endAngle": {"scale": "theta", "field": "count_start"}
-        }
-      }
-    }
-  ],
-  "scales": [
-    {
-      "name": "theta",
-      "type": "linear",
-      "domain": {"data": "source_0", "fields": ["count_start", "count_end"]},
-      "range": [0, 6.283185307179586],
-      "zero": true
+      "aggregate": [
+        {"op": "count", "as": "count"}
+      ],
+      "groupby": ["disasterType"]
     },
     {
-      "name": "color",
-      "type": "ordinal",
-      "domain": [
-        "Fire Incidents ",
-        "Environmental",
-        "Epidemic ",
-        "Extreme Weather",
-        "Other ",
-        "Shipwreck ",
-        "Transport "
-      ],
-      "range": [
-        "#B22222",
-        "#228B22",
-        "#FFD700",
-        "#800080",
-        "#FFA500",
-        "#4682B4",
-        "#FFC0CB"
+      "joinaggregate": [
+        {"op": "sum", "field": "count", "as": "total"}
       ]
+    },
+    {
+      "calculate": "datum.count / datum.total * 100",
+      "as": "percentage"
+    },
+    {
+      "calculate": "format(datum.percentage, '.1f') + '%'",
+      "as": "formatted_percentage"
     }
+    
   ],
-  "legends": [
-    {"title": "Disaster Type", "fill": "color", "symbolType": "circle"}
-  ],
-  "config": {}
+  "mark": {"type": "arc", "innerRadius": 50},
+  "encoding": {
+    "theta": {"field": "count", "type": "quantitative"},
+    "color": {
+      "field": "disasterType",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Fire Incidents ",
+          "Environmental",
+          "Epidemic ",
+          "Extreme Weather",
+          "Other ",
+          "Shipwreck ",
+          "Transport "
+        ],
+        "range": [
+          "#B22222",
+          "#228B22",
+          "#FFD700",
+          "#800080",
+          "#FFA500",
+          "#4682B4",
+          "#FFC0CB"
+        ]
+      },
+      "title": "Disaster Type"
+    },
+    "tooltip": [
+      {"field": "disasterType", "type": "nominal", "title": "Disaster Type"},
+      {"field": "count", "type": "quantitative", "title": "Count"},
+      {"field": "formatted_percentage", "type": "nominal", "title": "Percentage"}
+    ]
+  }
 }

@@ -3,17 +3,13 @@
   "background": "#9eb0a6",
   "padding": 5,
   "width": 800,
-  "height": 400,
+  "height": 450,
   "title": {
-    "text": "Natural Disasters: Death Toll in Australia",
-    "color": "black",
-    "fontSize": 30,
-    "frame": "group"
-  },
-  "style": "view",
+    "text": "Natural Disasters: Death Toll in Australia","color": "black",
+    "fontSize": 30},
   "data": [
     {
-      "name": "source_0",
+      "name": "ausmap",
       "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/js/ausmap.topojson",
       "format": {
         "type": "topojson",
@@ -21,19 +17,15 @@
       }
     },
     {
-      "name": "source_1",
+      "name": "disasters",
       "url": "https://raw.githubusercontent.com/jxcksonli/FIT3179/refs/heads/main/data/furthercleannd.csv",
-      "format": {"type": "csv", "delimiter": ","},
+      "format": { "type": "csv" },
       "transform": [
         {
           "type": "geopoint",
           "projection": "projection",
           "fields": ["lon", "lat"],
-          "as": ["layer_1_x", "layer_1_y"]
-        },
-        {
-          "type": "filter",
-          "expr": "isValid(datum[\"Deaths\"]) && isFinite(+datum[\"Deaths\"])"
+          "as": ["longitude", "latitude"]
         }
       ]
     }
@@ -41,50 +33,37 @@
   "projections": [
     {
       "name": "projection",
-      "translate": {"signal": "[width / 2, height / 2]"},
       "type": "equirectangular",
       "center": [133.0664063, -27.2643146],
       "scale": 600,
-      "clipExtent": [[0, 25], [720, 400]]
+      "clipExtent": [[0, 0], [800, 700]]
     }
   ],
   "marks": [
     {
-      "name": "layer_0_marks",
       "type": "shape",
-      "clip": true,
-      "style": ["geoshape"],
-      "from": {"data": "source_0"},
+      "from": { "data": "ausmap" },
+      "transform": [{ "type": "geoshape", "projection": "projection" }],
       "encode": {
         "update": {
-          "fill": {"value": "lightgray"},
-          "stroke": {"value": "darkgrey"},
-          "ariaRoleDescription": {"value": "geoshape"}
+          "fill": { "value": "lightgray" },
+          "stroke": { "value": "darkgrey" }
         }
-      },
-      "transform": [{"type": "geoshape", "projection": "projection"}]
+      }
     },
     {
-      "name": "layer_1_marks",
       "type": "symbol",
+      "from": { "data": "disasters" },
       "clip": true,
-      "style": ["circle"],
-      "from": {"data": "source_1"},
       "encode": {
         "update": {
-          "opacity": {"value": 0.7},
-          "fill": {"scale": "color", "field": "disasterType"},
+          "x": { "field": "longitude" },
+          "y": { "field": "latitude" },
+          "size": { "scale": "size", "field": "Deaths" },
+          "fill": { "scale": "color", "field": "disasterType" },
           "tooltip": {
-             "signal": "datum[\"disasterType\"] ? {\"Disaster Type\": datum[\"disasterType\"], \"Deaths\": format(datum[\"Deaths\"], \"\")} : {\"Deaths\": format(datum[\"Deaths\"], \"\")}"
-          },
-          "ariaRoleDescription": {"value": "circle"},
-          "description": {
-            "signal": "\"lon: \" + (format(datum[\"lon\"], \"\")) + \"; lat: \" + (format(datum[\"lat\"], \"\")) + \"; Disaster Type: \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Deaths: \" + (format(datum[\"Deaths\"], \"\")) + \"; Disaster Type: : \" + (isValid(datum[\"disasterType\"]) ? datum[\"disasterType\"] : \"\"+datum[\"disasterType\"]) + \"; Deaths: : \" + (format(datum[\"Deaths\"], \"\"))"
-          },
-          "x": {"field": "layer_1_x"},
-          "y": {"field": "layer_1_y"},
-          "size": {"scale": "size", "field": "Deaths"},
-          "shape": {"value": "circle"}
+            "signal": "{'Disaster Type': datum.disasterType, 'Deaths': datum.Deaths}"
+          }
         }
       }
     }
@@ -94,54 +73,23 @@
       "name": "color",
       "type": "ordinal",
       "domain": [
-        "Fire Incidents ",
-        "Environmental",
-        "Epidemic ",
-        "Extreme Weather",
-        "Other ",
-        "Shipwreck ",
-        "Transport "
-      ],
-      "range": [
-        "#B22222",
-        "#228B22",
-        "#FFD700",
-        "#800080",
-        "#FFA500",
-        "#4682B4",
-        "#FFC0CB"
-      ]
+        "Fire Incidents ","Environmental","Epidemic ","Extreme Weather","Other ","Shipwreck ","Transport "],
+      "range": ["#B22222","#228B22","#FFD700","#800080","#FFA500","#4682B4","#FFC0CB"]
     },
     {
       "name": "size",
       "type": "linear",
-      "domain": {"data": "source_1", "field": "Deaths"},
+      "domain": { "data": "disasters", "field": "Deaths" },
       "range": [20, 1000],
       "zero": true
     }
   ],
   "legends": [
     {
-      "title": "Disaster Type",
-      "fill": "color",
-      "symbolType": "circle",
-      "encode": {"symbols": {"update": {"opacity": {"value": 0.7}}}}
+      "title": "Disaster Type","fill": "color","symbolType": "circle"
     },
     {
-      "size": "size",
-      "symbolType": "circle",
-      "title": "Deaths",
-      "encode": {
-        "symbols": {
-          "update": {
-            "fill": {"value": "black"},
-            "fillOpacity": {"value": 0.7},
-            "opacity": {"value": 0.7},
-            "stroke": {"value": "transparent"}
-          }
-        }
-      }
+      "title": "Deaths","size": "size","symbolType": "circle"
     }
-  ],
-  "config": {}
+  ]
 }
